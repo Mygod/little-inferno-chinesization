@@ -1,0 +1,1261 @@
+== 1. MailmanStopExit ==
+Hey!
+嘿！
+
+== 2. Mailman01 ==
+Hey you!
+嘿！
+
+Special delivery!
+特种快递！
+
+===
+
+Who are you?
+你谁啊？
+
+I just found out I exist...
+我刚发现原来我真的存在......
+
+===
+
+Don't worry...!
+不用担心......！
+
+Just the friendly neighborhood Mail Man making the rounds.
+只不过是睦邻友好的邮递员在四处走动而已。
+
+We're all going to be fine.
+我们都不会有事的。
+
+Now what was your address again?
+现在你的地址是？
+
+===
+
+I think I burned down my house.
+我想我烧了我的房子。
+
+I have no idea.
+我不知道。
+
+===
+
+Yes, your home address appears to have been recently...
+是的，你家的地址最近似乎......
+
+oh...
+呃......
+
+...de-listed.
+......被从清单中划去了。
+
+Are you moving?
+你要搬家了吗？
+
+Don't forget to file a Change of Address Form with your local post office!
+别忘了到你当地邮局提交一份更改地址表格！
+
+One moment while I find your letter...
+稍等片刻，我马上找到你的信......
+
+== 3. Mailman02 ==
+I know it's here somewhere...
+我记得我把它放在这里了......
+
+===
+
+How do you know who I am?
+你怎么知道我是谁？
+
+You smell familiar...
+你的气味好像很熟悉......
+
+===
+
+Oh... well I've delivered ... let's see...
+呃......我已经直接运输了......我看看......
+
+...%d packages and letters directly to your house!
+...%d 个包裹和信件到你家里！
+
+Each package and letter, I placed right there...
+每一个包裹，每一封信，我都刚好放在那儿......
+
+...right beside you...
+......刚好放在你的身旁......
+
+...right beside the fire...
+......刚好放在火边......
+
+...you never even had to turn around.
+......因此你压根就没必要转身。
+
+Excellent, discreet, service!
+优秀、周到的服务！
+
+On time delivery!
+准时发货！
+
+Through snow or rain!
+不论雨雪！
+
+...but mostly snow.
+......不过几乎都是雪。
+
+It's been getting COLDER lately, hasn't it!
+最近越来越冷．了，不是吗！
+
+== 4. Mailman03 ==
+AhaA!!!
+啊哈．~！！！
+
+Here's your letter!
+这是你的信！
+
+===
+
+Thanks for your excellent service, I can't wait to read it.
+感谢你出色的服务，我等不及要读这封信了。
+
+Thanks, but I'll probably click through it as fast as I can and then burn it.
+多谢，不过我还是会以最快速度跳过这段剧情然后烧了这封信。
+
+===
+
+I'm sure it will keep you warm!
+我确信它会使你温暖的！
+
+...
+......
+
+Salutations,
+　　此致
+
+Sincerely,
+敬礼！
+
+All the Best,
+祝您一切顺利！
+
+Kind Regards,
+致礼！
+
+Goodbye!
+再见！
+
+...
+......
+
+We're all going to be fine.
+我们都不会有事的。
+
+== 5. Carolers ==
+...
+......
+
+== 6. GatekeeperNotThisWay ==
+Hey there!
+嘿！
+
+== 7. OpenTheGates ==
+...
+......
+
+===
+
+Hello?
+喂？
+
+Is someone there?
+有人吗？
+
+===
+
+Yes, welcome!
+是的，欢迎光临！
+
+THE GATES ARE SECURE!
+大．门．十．分．牢．固．！
+
+...
+......
+
+You probably shouldn't be outside.
+你或许不该呆在外面。
+
+===
+
+Hey! Did you used to be a bus driver?
+嘿！你当过公交车司机吗？
+
+===
+
+Ohhhhhh!
+哦~~~~~！
+
+Do you recognize my work?
+你发现了我的工作了吗？
+
+Yes I seem to have made quite a name for myself!
+是的，我似乎曾给自己取过这样的外号！
+
+...in the Lever Operating Business.
+......在杠杆操作业。
+
+Maybe you've heard...?
+也许你听说过......？
+
+I'll be giving a seminar at the upcoming-
+我不久将召开一个专题研讨会，也就是——
+
+Future Innovations in Lever Operating Technology Conference!
+杠杆操作技术的未来创新大会！
+
+You should stop by, I can introduce you
+过来些，我会给你介绍
+
+to some excellent networking opportunities!
+与一些行业顶尖分子交流的机会！
+
+Bring your resume and business cards.
+要带上你的简历和名片。
+
+The machinery won't operate itself you know!
+你应该知道机器是不会操作自己的！
+
+...
+......
+
+===
+
+Hey! What's that shadowy building back there?
+嘿！后面那边那个黑乎乎的大楼是什么？
+
+===
+
+...oh...
+......哦......
+
+...a-hem...
+......嗯——哼......
+
+...
+......
+
+WELCOME...!
+欢．迎．......！
+
+...to...
+......来到......
+
+Tomorrow Corporation!
+明日公司！
+
+The Future is ... Tomorrow!
+未来......就是明日！
+
+===
+
+What does Tomorrow Corporation do?
+明日公司是干什么的？
+
+===
+
+You might recognize such Tomorrow Corporation toys as...
+你可能知道一些明日公司的玩具，例如......
+
+"Fisty's Gem Pop"
+“宝石射手Fisty”
+
+or...
+或者是......
+
+"My Childhood: the Game!"
+[C] “我的童年：\n一场游戏！”
+
+or...
+或者是......
+
+"LITTLE INFERNO Entertainment Fireplace"
+“小．小．炼．狱．娱乐火炉”
+
+...
+......
+
+You look like you might be a fan of one of those three.
+你看起来像是这三种玩具之一的粉丝。
+
+...all covered in soot there.
+它们都在那里被煤烟覆盖着。
+
+===
+
+Will you open those scary gates so I can go inside?
+能把那些可怕的门打开让我进去吗？
+
+===
+
+Can I open those scary gates?
+我能打开那些可怕的门吗？
+
+...
+......
+
+My one single job...
+我唯一的工作......
+
+...the ONLY job I was hired to do...
+......我唯．一．能让我有饭吃的工作......
+
+...the ONE thing I do better than ANYBODY else...
+......一．样．我做的比任．何．人．都好的事情......
+
+... is OPEN THOSE GATES.
+......就是打．开．那．些．门．。
+
+So if you're going to ask...
+因此如果你想让我打开......
+
+...ask again ... with DRAMA!
+......那就再请求一次吧......要充满戏．剧．性．！
+
+===
+
+Will you open the gates so I can go inside... please?
+能把那些可怕的门打开让我进去......好吗？
+
+===
+
+AND...!
+而．且．......！
+
+...
+......
+
+...what...?
+......什么......？
+
+...
+......
+
+Think of the DRAMA!
+要有戏．剧．性．！
+
+This is the moment you pass through the GATES!
+这是你通过大．门．的瞬间！
+
+What's in that building?
+那座大楼里有什么？
+
+You could find a room that GLOWS AS BRIGHT AS THE SUN!
+你可能会找到一个房间，它发出的光．芒．像．太．阳．一．样．明．亮．！
+
+Or you could find an ELEVATOR THAT ONLY MOVES UP!
+或者，你可能会发现一个电．梯．，它．只．向．上．移．动．！
+
+Or you could find A MONSTER WITH A HEART OF GOLD!
+或者，你可能会发现一．个．怪．物．，它．有．一．颗．金．子．般．的．心．！
+
+Or a fantastic SUMMER INTERNSHIP!
+又或者，你可能会发现一个梦幻般的暑．期．实．习．！
+
+...
+......
+
+But whatever is through those GATES...
+但是无论在那些大．门．后面有什么......
+
+...you'll never be able to not know again!
+......你再也不能像以前一样什么都不知道了！
+
+So... 
+因此......
+
+...
+......
+
+...once again ... with FEELINGS!
+......再来一次......要有感．情．！
+
+===
+
+GATE OPERATOR, OPEN THE GATES!
+大．门．操．作．员．，打．开．大．门．！
+
+===
+
+HAHAHAHAAA! NIMBLE FINGERS, HERE WE GO!
+哈．哈．哈．哈．~~！灵．巧．的．手．指．，我．们．开．始．吧．！
+
+STAND BACK!!
+退．后．！！
+
+LET'S SEE WHAT HAPPENS THIS TIME!!!
+好．好．看．着．这．一．刻．会．发．生．什．么．！！！
+
+== 8. ReceptionistStopExit ==
+Yes, may I help you?
+是的，你需要什么帮助？
+
+== 9. ReceptionistAhem ==
+Ahem.
+嗯哼。
+
+== 10. Receptionist_EndDemo ==
+Yes, Welcome to Tomorrow Corporation, how may I direct your call?
+是的，感谢您致电明日公司。
+
+1. More great information about Tomorrow Corporation?
+按1了解更多关于明日公司的伟大信息。
+
+2. Complaints and Lawsuits regarding Little Inferno Entertainment Fireplace?
+按2投诉或诉讼小小炼狱娱乐火炉。
+
+3. Speak to an operator?
+按0人工服务。
+
+===
+
+I'd like some more great information about Tomorrow Corporation?
+[C] 我想了解更多关于明日公司的\n伟大信息。
+
+===
+
+Yes, Tomorrow Corporation.
+是的，明日公司。
+
+The Future is... Tomorrow!
+未来......就是明日！
+
+It's also on our website.
+更多信息也在我们的网站上。
+
+Please go there.
+请访问我们的网站。
+
+===
+
+I have a complaint. My house burned down?
+[C] 我要投诉。我的房子被烧毁了。
+
+===
+
+Yes, thank you.
+是的，非常感谢。
+
+Please provide the following:
+请提供以下信息：
+
+1. Your home warranty alpha-numeric product code.
+1. 您的由字母、数字组成的产品上门保修码。
+
+2. Your 16-digit personal customer identification confirmation validation number.
+2. 您的16位个人客户身份确认验证码。
+
+3. Your Little Inferno Certificate of Authenticity you received with your product.
+3. 您在您获得产品时得到的小小炼狱防伪证明书。
+
+You will need to fax those materials to the number listed on our website.
+您需要将以上材料传真到我们网站上列出的号码。
+
+===
+
+I don't have a fax machine. I don't think anybody does. Also my house burned down.
+[C] 我没有传真机，我觉得没人会\n有，还有，我的房子被烧毁了。
+
+===
+
+Yes, I will wait for your fax.
+是的，我们会耐心等待您的传真。
+
+Thank you.
+非常感谢。
+
+===
+
+I'd like to speak to an operator please. Zero. Zero. Zero.
+[C] 我要人工服务。零，零，零。
+
+===
+
+Yes, it appears you have reached...
+是的，看来你已经到达了......
+
+THE END OF THE DEMO.
+试．用．版．的．结．束．。
+
+Someone will be with you shortly.
+不久就会有人与你联络。
+
+...by Winter 2012.
+......在2012年的冬季。
+
+Thank you for querying Tomorrow Corporation.
+感谢您致电明日公司。
+
+Remember...
+要记住......
+
+The Future is...
+未来......
+
+Tomorrow.
+就是明日。
+
+== 11. Receptionist ==
+Yes, Welcome to Tomorrow Corporation, how may I direct your call?
+是的，感谢您致电明日公司。
+
+1. More great information about Tomorrow Corporation?
+按1了解更多关于明日公司的伟大信息。
+
+2. Complaints and Lawsuits regarding Little Inferno Entertainment Fireplace?
+按2投诉或诉讼小小炼狱娱乐火炉。
+
+3. Speak to an operator?
+按0人工服务。
+
+===
+
+I'd like some more great information about Tomorrow Corporation?
+[C] 我想了解更多关于明日公司的\n伟大信息。
+
+===
+
+Yes, Tomorrow Corporation.
+是的，明日公司。
+
+The Future is... Tomorrow!
+未来......就是明日！
+
+It's also on our website.
+更多信息也在我们的网站上。
+
+Please go there.
+请访问我们的网站。
+
+===
+
+I have a complaint. My house burned down?
+[C] 我要投诉。我的房子被烧毁了。
+
+===
+
+Yes, thank you.
+是的，非常感谢。
+
+Please provide the following:
+请提供以下信息：
+
+1. Your home warranty alpha-numeric product code.
+1. 您的由字母、数字组成的产品上门保修码。
+
+2. Your 16-digit personal customer identification confirmation validation number.
+2. 您的16位个人客户身份确认验证码。
+
+3. Your Little Inferno Certificate of Authenticity you received with your product.
+3. 您在您获得产品时得到的小小炼狱防伪证明书。
+
+You will need to fax those materials to the number listed on our website.
+您需要将以上材料传真到我们网站上列出的号码。
+
+===
+
+I don't have a fax machine. I don't think anybody does. Also my house burned down.
+[C] 我没有传真机，我觉得没人会\n有，还有，我的房子被烧毁了。
+
+===
+
+Yes, I will wait for your fax.
+是的，我们会耐心等待您的传真。
+
+Thank you.
+非常感谢。
+
+===
+
+I'd like to speak to an operator please. Zero. Zero. Zero.
+[C] 我要人工服务。零，零，零。
+
+===
+
+Yes, please hold.
+是的，请稍等。
+
+...
+......
+
+Hello.
+您好。
+
+How may I help you today?
+今日您需要什么帮助？
+
+===
+
+What are you writing there?
+你在那儿写啥呢？
+
+===
+
+Yes, this communication may be recorded for quality or evaluation purposes.
+是的，本次服务将被全程录音以帮助改善服务质量或用于评估目的。
+
+===
+
+It looks like you're writing more words than we're saying.
+[C] 貌似你打的字比我们正在说的\n话还要多。
+
+===
+
+Yes, I'm writing a novel in the other window.
+是的，我正在在另一个窗口中写一篇小说。
+
+In each brief pause.
+在每一个短暂的停顿之间。在每个。
+
+Between.
+字。
+
+Each.
+之。
+
+...
+......
+
+...
+......
+
+Word.
+间。
+
+===
+
+Your multi-tasking skills are excellent!
+[C] 你的多任务处理技能真是优秀！
+
+===
+
+Yes, thank you.
+是的，非常感谢。
+
+===
+
+What is your novel about?
+[C] 你在小说里写了些什么？
+
+===
+
+Yes, my novel is a smouldering work.
+是的，我的小说是一份冒着烟的作品。
+
+A mystery.
+一个谜。
+
+A romance.
+一段浪漫的爱情。
+
+A forbidden affair.
+一种禁忌。
+
+A murder.
+一宗谋杀案。
+
+A heart burns.
+一次心灵的燃烧。
+
+...
+......
+
+It's pretty much an autobiography.
+它简直就是一部自传。
+
+===
+
+What is your book called?
+书名是什么？
+
+===
+
+Yes, my novel is called...
+是的，我的小说叫做......
+
+"Smokestacks, Over Burnington"
+《遍及火城的烟囱》
+
+A thrilling followup to my last novel...
+是我上一部小说的一个惊心动魄的后续，也就是......
+
+"The Terrible Secret"
+《可怕的秘密》
+
+===
+
+What is the terrible secret?
+可怕的秘密是什么？
+
+===
+
+Yes, it is terrible.
+是的，它很可怕。
+
+How may I help you, today?
+今日，您需要什么帮助？
+
+===
+
+Can I go up that elevator?
+[C] 我可以坐那电梯上去吗？
+
+===
+
+Yes, thank you for your request, but the elevator is for authorized Tomorrow Corporation employees only.
+是的，感谢您的请求，但是那个电梯仅供授权的明日公司员工使用。
+
+===
+
+May I use the restroom?
+我可以去洗手间吗？
+
+===
+
+Yes, the restroom is just up that elevator.
+是的，要去洗手间只要坐那电梯上去就行了。
+
+===
+
+Ok thanks bye.
+好的谢谢，再见。
+
+===
+
+Yes, thank you for querying Tomorrow Corporation.
+是的，感谢您致电明日公司。
+
+Remember...
+要记住......
+
+The Future is... Tomorrow.
+未来......就是明日。
+
+== 12. ReceptionistEnd ==
+Yes, thank you for querying Tomorrow Corporation.
+是的，感谢您致电明日公司。
+
+Remember...
+要记住......
+
+The Future is... Tomorrow.
+未来......就是明日。
+
+== 13. MsNancy ==
+Oh!
+哦！
+
+Welcome!
+欢迎光临！
+
+Ooo it looks so cold out there!
+呜外面看起来真冷啊！
+
+===
+
+Are you...?
+你就是......？
+
+===
+
+Oooo yeees!
+呜~是~~的！
+
+I'm Miss Nancy!
+我是南希小姐！
+
+Welcome!
+欢迎光临！
+
+...
+......
+
+Have you enjoyed yourself?
+你玩得高兴吗？
+
+===
+
+You made Little Inferno Fireplace?
+就是你制作了小小炼狱娱乐火炉？
+
+===
+
+Oh, yes!
+哦，是的！
+
+Yes, I built this company!
+是的，我建立了这家公司！
+
+I hope Little Inferno kept you nice and toasty warm?
+我希望小小炼狱能使你们像在烤面包片一样温暖而舒适。
+
+===
+
+My house burned down.
+我的房子被烧毁了。
+
+===
+
+Yes...
+是的......
+
+Tomorrow Corporation regrets any inconvenience that may have caused.
+明日公司对于可能造成的任何不便感到遗憾。
+
+...
+......
+
+You look like you could use a HUG!
+看起来我们可以来个拥．抱．！
+
+Oh!
+哦！
+
+Do you remember?
+你还记得吗？
+
+I sent you a coupon, good for ONE FREE HUG
+我发给过你一张礼券，可以兑换一．次．免．费．的．拥．抱．
+
+...a loooong time ago.
+......不过那是很久很久以前的事了。
+
+Did you bring it?
+你有带着它吗？
+
+===
+
+Yes! I have the coupon for One Free Hug right here!
+是的！我有一张免费拥抱礼券！就在这里！
+
+===
+
+Oh my!
+天哪！
+
+There it is!
+就是它！
+
+We haven't printed these in years!
+我们好几年没有打印这种东西了！
+
+Get ready to snuggle up with Miss Nancy!
+准备好依偎在南希小姐怀里吧！
+
+Mmmm mmm MMMMMMM!
+嗯~~~嗯~~嗯．~~~~~~！
+
+===
+
+No, I burned the coupon for One Free Hug.
+没有，我把免费拥抱礼券烧了。
+
+===
+
+Oh dear.
+哎呀！
+
+You burned it?
+你把它烧了？
+
+I hope it kept you warm.
+希望它能使你感到暖和。
+
+Mmm mmmmm!
+嗯~~嗯~~~~！
+
+===
+
+How long has it been snowing?
+雪下了多久？
+
+===
+
+Oh!
+哦！
+
+It's been snowing for as long as I can remember!
+雪下了太久了，连我也记不得下了多久！
+
+And it's been getting colder.
+而且天气还在不断变冷。
+
+Every day, colder than the day before.
+每一天，都比前一天更冷。
+
+That can't last forever!
+那不可能永远持续下去！
+
+Ooo but it's beautiful, isn't it!
+呜不过雪景真漂亮，不是吗！
+
+===
+
+What? What can't last forever?
+什么？什么不可能永远持续下去？
+
+===
+
+Can you see down there?
+看得到下面吗？
+
+Look as faaar as you can!
+尽可能眺望远~~方吧！
+
+...
+......
+
+Everything you see...!
+你看到的所有东西......！
+
+The whooooole city...!
+那整~~~~个城市......！
+
+...
+......
+
+...it's slowing down
+......它变得越来越慢
+
+...
+......
+
+And then one day...
+然后有一天......
+
+...it will stop.
+......它会停下来。
+
+Frozen!
+彻底被冻住！
+
+...
+......
+
+Like a family photo.
+就像一张全家福一样。
+
+===
+
+That's horrible! Shouldn't we do something?
+太可怕了！我们不应该做些什么吗？
+
+Haha awesome! You're terrifying, I'm glad we're friends.
+哈哈碉堡了！你真会吓人，我很高兴能认识你这么个朋友。
+
+===
+
+Oooo!
+呜~！
+
+It's nobody's fault.
+这并不是任何人的过错。
+
+We can't control the weather.
+我们不能控制天气。
+
+===
+
+If everything is freezing, why doesn't everyone leave?
+既然所有的东西都在慢慢冻住，为什么大家还不离开这里？
+
+===
+
+...
+......
+
+You burned down your house!
+你烧掉了你的房子！
+
+And you left!
+然后你离开了！
+
+Where will you go next?!
+你接下来会去哪儿？
+
+You can go as far as you like!
+你可以爱走多远就走多远！
+
+...
+......
+
+But you can't go back.
+但你无法回去。
+
+And you can't come with me.
+而且你也不能跟我一起走。
+
+===
+
+What? Are you leaving too?
+什么？你也要走了吗？
+
+===
+
+Ooo yes! I've just finished packing!
+呜是的！我刚收拾好行李！
+
+You're just in time!
+你来得正是时候！
+
+...
+......
+
+I've been here too long!
+我已经在这里呆了太久了！
+
+And I'm not getting any younger!
+而且我也不再年轻了！
+
+Although I DO look fantaaastic for my age!
+虽然在同龄人之间，我看起来还．是极~~好的！
+
+There was so much more I wanted to do!
+但我想做的事儿还有太多太多！
+
+Where did aaalllll the time go??
+所~~有~~~的时间都到哪儿去了？？
+
+Ohhh! It's easy to forget!
+哦~~！这很容易给忘了！
+
+I remember when I wanted to be an astronaut!
+我还记得那时我想去成为一名宇航员！
+
+And explore the cosmos!
+去探索宇宙！
+
+And compose a symphony!
+去谱写一首交响乐！
+
+And dive to the bottom of the ocean!
+去潜到大洋的底部！
+
+And discover lost cities!
+去发现消失的城市！
+
+And build new cities!
+去建设新的城市！
+
+And become a model!
+去做一个模特儿！
+
+But before you know it...
+但在你知道它之前......
+
+...
+......
+
+Ooo!
+呜！
+
+===
+
+Are you going to burn down your house too?
+你也打算去烧掉你的房子吗？
+
+What will you do next?
+你接下来要做什么？
+
+===
+
+Oooo! Hahaha!
+呜~！哈哈哈！
+
+What should you do when you've already got everything you ever dreamed?
+如果你曾经梦想过的一切都成真了，你会怎么做？
+
+===
+
+I don't know, what should you do when you've already got everything you ever dreamed?
+我不知道，如果你曾经梦想过的一切都成真了，你会怎么做？
+
+== 14. MsNancyEnd ==
+DREAM BIGGER!!!
+追．寻．更．大．的．梦．想．！！！
+
+...
+......
+
+Ok thank you for stopping by!
+好的感谢您的访问！
+
+Oooo it's been a pleasure!
+呜~这真是一件快事！
+
+It's time...!
+是时候了......！
+
+It's tiiiiiimmmmmme...!!!!
+是时~~~~~候~~~~~了......！！！！
+
+Mmmmm mmm mmmm WEEEEE!!
+嗯~~~~嗯~~嗯~~~~噫．~~~~！！
+
+== 15. GatesAreOpen ==
+WELCOME TO...!
+欢．迎．来．到．......！
+
+oh...!
+呃......！
+
+How can I help you?
+您需要什么帮助？
+
+===
+
+GATE OPERATOR, OPEN THE GATES!
+大．门．操．作．员．，打．开．大．门．！
+
+===
+
+Ha hA!
+哈哈！
+
+Go on in!
+进去吧！
+
+===
+
+Never mind.
+算了。
+
+===
+
+...
+......
+
+Have you tried going... that way?
+你试过走......那条路吗？
+
+That way over there?
+那边的那条路？
+
+Where my fingers are pointing?
+我手指指的那条路？
+
+To the right?
+去右边？
+
+It turns out...
+你会发现原来......
+
+...there's a whole world out there!
+......在那外面有一整个世界！
+
+== 16. WeathermanLeave ==
+BREAKING WEATHER FORECAST!
+重．大．天．气．预．报．！
+
+A CLEAR HORIZON
+一．条．清．晰．的．地．平．线．
+
+as FAAARR as the eye can see!
+一望．~~~无际！
+
+Are you ready to go?
+你准备好要出发了吗？
+
+===
+
+Yes, I'm ready...!
+是的，我准备好了......！
+
+No, I can't go yet.
+不，我还不能走。
+
+===
+
+Whoooowwwweeeeeee!
+呜~~~噫~~~~~~~~~！
+
+HERE WE GO!
+出．发．吧．！
+
+JUST CLOSE YOUR EYES...
+只．要．闭．上．你．的．眼．睛．......
+
+WALK FORWARD...
+往．前．走．！
+
+AND BELIEVE!
+并．坚．持．你．心．中．的．信．仰．！
+
+===
+
+Really? I just walk off the edge of this big scary cliff and believe? Ok here I go!
+真的吗？我只要走下这个又大又吓人的悬崖并坚持我心中的信仰？好的我来了！
+
+No, I can't go yet.
+不，我还不能走。
+
+===
+
+WHHHOOEEE! HEY THERE KID!
+呜．~~~噫．~~！嘿．小．子．！
+
+HAHAHA JUST KIDDING!
+哈．哈．哈．开．个．玩．笑．罢．了．！
+
+It's all SHARP ROCKS and SHARKS down there.
+下面到处都是尖．锐．的．石．头．和鲨．鱼．。
+
+And yooooww that's a long fall!
+而且哎~~~哟~这里很高！
+
+I can take you UP UP UP out of this city.
+我可以带你向．上．，向．上．，向．上．，飞出这座城市。
+
+But then you're on your own!
+不过在这之后，你就只能依靠自己的力量了！
+
+You can go as far as you like!
+你可以爱走多远就走多远！
+
+But you'll have to pay as you go.
+但是在你离开的同时你也不得不付出代价。
+
+And you can never go back.
+而且你再也不能回来。
+
+You sure you're ready?
+你确定你准备好了吗？
+
+===
+
+Yes, I'm sure I'm ready!
+是的，我确定我准备好了！
+
+No, I can't go yet.
+不，我还不能走。
+
+===
+
+BREAKING WEATHER FORECAST!
+重．大．天．气．预．报．！
+
+The sun is so big you can almost touch it!
+太阳真大，你几乎可以碰到它了！
+
+This is the beginning of something... brilliant!
+这是某种东西的开始......某种辉煌的东西！
+
+REPORTING FROM THE WEATHER BALLOON
+从．气．象．气．球．发．来．的．报．告．
+
+OVER THE SMOKESTACKS
+遍．及．根．根．烟．囱．
+
+OVER THE CITY
+遍．及．整．个．城．市．
+
+GOODNIGHT!
+晚．安．！

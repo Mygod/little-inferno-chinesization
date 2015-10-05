@@ -1,0 +1,25 @@
+data/fonts/TwCen.page00.png
+data/fonts/TwCen.page01.png
+data/fonts/TwCen.page02.png
+data/fonts/TwCen.page03.png
+data/fonts/TwCen.page04.png
+data/fonts/TwCen.page05.png
+data/fonts/TwCen.page06.png
+data/fonts/TwCen.page07.png
+data/fonts/TwCen.page08.png
+data/fonts/TwCen.page09.png
+data/fonts/TwCen.page10.png
+data/fonts/TwCen.page11.png
+
+        <texture filename="data/fonts/TwCen.page00.png"/>
+        <texture filename="data/fonts/TwCen.page01.png"/>
+        <texture filename="data/fonts/TwCen.page02.png"/>
+        <texture filename="data/fonts/TwCen.page03.png"/>
+        <texture filename="data/fonts/TwCen.page04.png"/>
+        <texture filename="data/fonts/TwCen.page05.png"/>
+        <texture filename="data/fonts/TwCen.page06.png"/>
+        <texture filename="data/fonts/TwCen.page07.png"/>
+        <texture filename="data/fonts/TwCen.page08.png"/>
+        <texture filename="data/fonts/TwCen.page09.png"/>
+        <texture filename="data/fonts/TwCen.page10.png"/>
+        <texture filename="data/fonts/TwCen.page11.png"/>

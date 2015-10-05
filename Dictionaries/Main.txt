@@ -1,0 +1,233 @@
+﻿WARNING
+警告   
+
+DO NOT PLAY WITH FIRE.
+不要玩火。 　
+
+presents
+出品
+
+new
+game
+新的
+房子
+
+%dh %dm
+%d小时%d分
+
+-       -
+-       -
+
+%s left
+剩余 %s
+
+EXPRESS
+SHIP
+快递
+货运
+
+YES
+是
+
+NO
+否
+
+DRAG ME
+拖动我
+
+read
+again?
+再读
+一遍
+
+Make sure your previous catalog has no unpurchased items!
+请确认在你前一本目录中没有未购买过的物品！
+
+Make sure your mailbox has no unprocessed letters!
+请确认你的邮箱中没有未处理的信件！
+
+New Catalog available for purchase!
+新的商品目录可供购买！
+
+Upgrade Mailbox
+升级邮箱
+
+Upgrade your mailbox to hold one additional item?
+确认要通过升级来扩大一个物品的容量吗？
+
+cancel
+取消
+
+Your order has shipped!
+您的订单已经发货！
+
+It will arrive shortly.
+很快就会送到。
+
+Restocking...
+补货中......
+
+Tomorrow Bucks
+明日巴克
+
+Use Tomorrow Bucks to buy brand new things!
+使用明日巴克来购买全新的东西！
+
+Tomorrow Bucks, OK!
+明日巴克，好的！
+
+Tomorrow Stamps
+明日邮票
+
+Use stamps on any shipped package to make it arrive instantly! Just click on the shipped package in your mailbox.
+对任何运输中的包裹使用邮票就能让它立即送到！只要点击您的邮箱中正在运输的包裹即可。
+
+Stamps, OK!
+邮票，好的！
+
+Mailbox Full
+邮箱已满
+
+Please dispose of some of your belongings before ordering more.
+请先将您的物品处理掉一些后再继续订购。
+
+I'm sorry, I got too excited
+对不起，我太激动了
+
+Select Picture:
+选择图片：
+
+Tomorrow Corp Pictures
+明日公司图片
+
+Pictures on Facebook
+Facebook 上的图片
+
+Pictures on Google+
+Google+ 上的图片
+
+My Pictures
+我的图片
+
+connect to social network
+连接到社交网络
+
+OK
+选好了
+
+Connect to Facebook?
+连接到 Facebook？
+
+This will launch your internet browser to allow you to connect your facebook account.
+接下来会启动你的浏览器来让您连接到您的 Facebook 账号。
+
+Check your browser
+请查看您的浏览器
+
+Please proceed once your internet browser says "Setup Complete!" 
+请在您的浏览器显示“Setup Complete!”之前进行操作。
+
+Let's burn some pictures!
+来烧点图片吧！
+
+Return to Game
+返回游戏
+
+Exit to Title
+选择房子
+
+Exit Game
+退出游戏
+
+Find COMBOS
+& get STAMPS!
+找到组合，
+得到邮票！
+
+Delete Slot %d?
+删除 %d 号房子的数据？
+
+Are you sure you want to delete this slot's data?
+你确定想要删除这个房子里的所有数据？
+
+DRAG
+ITEM
+HERE
+把东西
+拖动到
+这儿！
+
+NO
+ITEMS
+没有
+东西
+
+SEND
+发送
+
+Message Sent!
+信息已发送！
+
+Find 1 more
+COMBO!
+再找到一个
+组合！
+
+Find %d more
+COMBOS!
+再找到 %d 个
+组合！
+
+%d
+%d
+
+/
+/
+
+%s
+%s
+
+%s!
+%s！
+
+Need more stamps? Try searching for combos!
+想要更多的邮票吗？快去找组合吧！
+
+%02d
+%02d
+
+DRAG
+拖动
+
+ME
+我
+
+You've Got...
+你获得了......
+
+a Catalog!
+一本商品目录！
+
+Catalogs
+商品目录
+
+Shopping is fun! Buy every item, in every catalog, and you will be rewarded.
+购物真是一种乐趣！买下每一本商品目录中的每一样东西，然后你就会得到回报。
+
+Catalogs, OK!
+商品目录，好的！
+
+Secret Combos
+秘密的组合
+
+Shhh... When certain things are burned together, something good will happen.
+嘘......当某些东西放在一起燃烧时会有好事发生。
+
+Combos, OK!
+组合，好的！
+
+Thanks for playing!
+感谢您玩此游戏！
+
+I <3 U!!
+521!!
