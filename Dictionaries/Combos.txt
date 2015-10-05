@@ -1,5 +1,5 @@
 ﻿Bike Pirate|COMBO
-抢自行车|组合
+飞车抢劫|组合
 
 Someone Else's|COMBO
 别人的|组合
@@ -59,7 +59,7 @@ Cornflakes|COMBO
 玉米片|组合
 
 Deadly Fish|COMBO
-死鱼|组合
+有毒鱼类|组合
 
 Wake Up!|COMBO
 醒来！|组合
@@ -134,13 +134,13 @@ Change the Bulb|COMBO
 换灯泡|组合
 
 Cold War|COMBO
-冷战|组合
+美苏争霸|组合
 
 Framed|COMBO
 加外框的|组合
 
 Writer's Blocks|COMBO
-写作助手|组合
+写作方块|组合
 
 Stop Drop & Roll|COMBO
 就地打滚|组合
@@ -158,7 +158,7 @@ Clean Plate|COMBO
 干净的盘子|组合
 
 Orchestral|COMBO
-管弦乐|组合
+管弦乐团|组合
 
 Moonlight Melody|COMBO
 月光旋律|组合
@@ -173,7 +173,7 @@ Bearskin Rug|COMBO
 熊皮地毯|组合
 
 Fireworks|COMBO
-爆竹烟花|组合
+烟花爆竹|组合
 
 Spinning Blades|COMBO
 旋转飞刃|组合

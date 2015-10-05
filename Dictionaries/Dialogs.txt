@@ -1149,7 +1149,7 @@ It turns out...
 你会发现原来......
 
 ...there's a whole world out there!
-......在那外面有一整个世界！
+......在外面的是整个世界！
 
 == 16. WeathermanLeave ==
 BREAKING WEATHER FORECAST!

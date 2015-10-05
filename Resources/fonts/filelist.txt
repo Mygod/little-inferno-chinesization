@@ -1,0 +1,13 @@
+data/fonts/TwCen.page00.png
+data/fonts/TwCen.page01.png
+data/fonts/TwCen.page02.png
+data/fonts/TwCen.page03.png
+data/fonts/TwCen.page04.png
+data/fonts/TwCen.page05.png
+
+        <texture filename="data/fonts/TwCen.page00.png"/>
+        <texture filename="data/fonts/TwCen.page01.png"/>
+        <texture filename="data/fonts/TwCen.page02.png"/>
+        <texture filename="data/fonts/TwCen.page03.png"/>
+        <texture filename="data/fonts/TwCen.page04.png"/>
+        <texture filename="data/fonts/TwCen.page05.png"/>

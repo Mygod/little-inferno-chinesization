@@ -73,7 +73,7 @@ But you can't do that forever!
 不过你无法一直这么做下去！
 
 There is bound to be an end!
-这游戏势必有一个结束！
+这游戏势必会结束！
 
 Stay warm!
 Miss Nancy
@@ -144,10 +144,10 @@ Burning stuff is pretty fun, but BE CARRREFULLL!
 烧东西很有趣，不过要小．~~心．~~！！
 
 The instructions said there's SOMETHING EVEN MORE DANGEROUS than fire...
-介绍上说有些东西比火还．要．危．险．......
+说明书上说有些东西比火还．要．危．险．......
 
 But I burned them.
-不过我把介绍烧了。
+不过我把说明书给烧了。
 
 So we'll never know.
 这样我们就再也不会知道了。
@@ -235,13 +235,13 @@ Don't worry I won't tell youu
 别担心，我是不会告诉你~的
 
 that would be a spoilerr
-因为这是一个剧透~
+不然会剧透~你一脸
 
 ...
 ......
 
 But it's really good.
-不过它真的很不错。
+不过它真的很有用。
 
 ...
 ......
@@ -602,7 +602,7 @@ You're reading ALL my letters really carefully, right?
 我的每一封信你都．是仔仔细细地阅读的，对吗？
 
 You're not just skipping through them and burning them up are you?
-我的每一封信你都不是跳过后就把它们烧了，对吗？
+而不是狂点鼠标跳过它们后就把它们烧 了，对吗？
 
 One day I might say something REALLY IMPORTANT!
 我可能哪天会说些真．正．重．要．的东西！
@@ -780,7 +780,7 @@ and created YOU
 创造了你．
 
 and MEEEEEEEE!!!!
-还有我．~~~~~~~！！！！
+还有我．~~~~~~~ ！！！！
 
 and a little wall right between us.
 还有正好在我们俩之间的一堵墙。
@@ -805,7 +805,7 @@ FROMM YOUR NEIGHBOR SUGAR PLUMPPSS NOM NOMMMMM!
 
 == 27. C4_SugarPlumps_BlankPages ==
 I'm typing you letters and I don't have a DELETE buttttton!
-我打字给你写信，而且我没有 DELETE 键~~~~！
+我打字给你写信，但我没有删．除． 键~~~~！
 
 It fell off.
 它掉下来了。
@@ -837,7 +837,7 @@ P.S. You can have this
 附：这个可以送给你
 
 Delete Button
-Delete 键
+删除键
 
 == 28. C4_SugarPlumps_NotAlone ==
 We're not allloooone you know
@@ -971,7 +971,7 @@ I wonder what happens...
 我想知道......
 
 ...if I get a little closer?
-......要是我靠得更近些会怎么样？
+......要是我靠得再近些会发生什么？
 
 ...
 ......
@@ -1152,7 +1152,7 @@ Little Inferno was designed to be a WARM and SAFE toy...
 小小炼狱本应该是一个又温．暖．、又安．全．的玩具......
 
 ...for players of all ages!
-......无论玩家年龄高 低！
+......无论玩家年龄大 小！
 
 Please refer to your information fun packet for a list of helpful safety tips.
 详情请参阅您的信息乐趣包，里面有一张有用的安全提示列 表。
@@ -1597,7 +1597,7 @@ Just like you.
 就像你一样。
 
 There's a whole world out there...
-外面有一整个世 界......
+在外面的是整个世 界......
 
 You can go as far as you want!
 你可以想走多远就走多远！

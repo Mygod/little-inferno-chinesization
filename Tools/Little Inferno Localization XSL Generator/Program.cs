@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 using System.Xml.Linq;
+using System.Xml.XPath;
 
 namespace Mygod.LittleInferno.Localization.ChineseInjector
 {
@@ -67,75 +68,128 @@ namespace Mygod.LittleInferno.Localization.ChineseInjector
                         Environment.NewLine, ecDic[en], cn);
                 }
 
-            args = args.Where(a => !a.ToLower().EndsWith("filelist.txt") && File.Exists(a))
-                       .Union(args.Where(a => a.ToLower().EndsWith("filelist.txt")).SelectMany(a => File.ReadAllText(a)
+            args = args.Where(a => !a.ToLower().EndsWith("filelist.txt", StringComparison.InvariantCultureIgnoreCase))
+                       .Union(args.Where(a => a.ToLower().EndsWith("filelist.txt", StringComparison.InvariantCultureIgnoreCase))
+                           .SelectMany(a => File.ReadAllText(a)
                            .Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries)))
                        .Union(args.Where(Directory.Exists).SelectMany(a => new DirectoryInfo(a)
                            .EnumerateFiles("*.anim.xml", SearchOption.AllDirectories)).Select(f => f.FullName))
                        .ToArray();
             var processed = false;
-            foreach (var arg in args.Where(File.Exists))
+            foreach (var argTemp in args)
             {
-                processed = true;
-                if (arg.ToLower().EndsWith(".bak")) RestoreBackup(arg.Remove(arg.Length - 4));
-                else
+                var arg = argTemp;
+                if (arg.EndsWith(".xml", StringComparison.InvariantCultureIgnoreCase) &&
+                    !arg.EndsWith(".anim.xml", StringComparison.InvariantCultureIgnoreCase)) arg = arg.Remove(arg.Length - 4);
+                var xmlPath = arg + ".xml";
+                if (File.Exists(arg))
                 {
-                    if (File.Exists(arg + ".bak")) RestoreBackup(arg);
-                    try
+                    processed = true;
+                    if (arg.ToLower().EndsWith(".bak", StringComparison.InvariantCultureIgnoreCase))
+                        RestoreBackup(arg.Remove(arg.Length - 4));
+                    else
                     {
-                        StringTableHelper.Decode(arg);
+                        if (File.Exists(arg + ".bak")) RestoreBackup(arg);
+                        try
+                        {
+                            StringTableHelper.Decode(arg);
+                        }
+                        catch (NoStringException)
+                        {
+                            Console.WriteLine("WARNING: No strings here!");
+                            continue;
+                        }
+                        File.Copy(arg, arg + ".bak");   // backup
+                        var doc = XDocument.Load(xmlPath);
+                        var rollback = true;
+                        var forceRollback = false;
+                        foreach (var element in doc.Element("strings").Elements("string")
+                                                   .Where(element => element.Attribute("en") != null && element.Attribute("de") != null))
+                        {
+                            if (element.Attribute("french") == null)
+                            {
+                                element.Add(new XAttribute("french", element.Attribute("fr").Value));   // backup
+                                element.Attribute("fr").Value = element.Attribute("en").Value;
+                            }
+                            var en = element.Attribute("fr").Value;
+                            if (ecDic.ContainsKey(en))
+                            {
+                                if (element.Attribute("en") == null)
+                                {
+                                    element.Add(new XAttribute("en", ecDic[en]));
+                                    rollback = false;
+                                }
+                                else if (element.Attribute("en").Value != ecDic[en])
+                                {
+                                    element.Attribute("en").Value = ecDic[en];
+                                    rollback = false;
+                                }
+                            }
+                            else
+                            {
+                                if (element.Attribute("de") != null)
+                                {
+                                    Console.WriteLine("ERROR: Unexpected content! Details: {0}", Environment.NewLine + en);
+                                    forceRollback = true;
+                                }
+                                if (element.Attribute("en") != null) element.Attribute("en").Remove();
+                            }
+                        }
+                        doc.Save(xmlPath);
+                        StringTableHelper.Encode(xmlPath);
+                        File.Delete(xmlPath);
+                        if (rollback || forceRollback)
+                        {
+                            Console.WriteLine("Rolling back...");
+                            File.Delete(arg);
+                            File.Move(arg + ".bak", arg);
+                        }
+                        else Console.WriteLine("Checked!");
                     }
-                    catch (NoStringException)
-                    {
-                        Console.WriteLine("WARNING: No strings here!");
-                        continue;
-                    }
-                    File.Copy(arg, arg + ".bak");   // backup
-                    var doc = XDocument.Load(arg + ".xml");
+                }
+                else if (File.Exists(xmlPath))
+                {
+                    processed = true;
+                    if (File.Exists(xmlPath + ".bak")) RestoreBackup(xmlPath);
+                    File.Copy(xmlPath, xmlPath + ".bak");   // backup
+                    var doc = XDocument.Load(xmlPath);
                     var rollback = true;
                     var forceRollback = false;
-                    foreach (var element in doc.Element("strings").Elements("string")
-                                               .Where(element => element.Attribute("en") != null && element.Attribute("de") != null))
+                    foreach (var name in doc.XPathSelectElements("//name").Union(doc.XPathSelectElements("//text"))
+                                            .Union(doc.XPathSelectElements("//description")))
                     {
-                        if (element.Attribute("french") == null)
+                        XElement en = name.XPathSelectElement("string[@lang='en']"), fr = name.XPathSelectElement("string[@lang='fr']");
+                        if (en == null || fr == null) continue;
+                        var enValue = fr.Attribute("data").Value = en.Attribute("data").Value;
+                        if (ecDic.ContainsKey(enValue))
                         {
-                            element.Add(new XAttribute("french", element.Attribute("fr").Value));   // backup
-                            element.Attribute("fr").Value = element.Attribute("en").Value;
-                        }
-                        var en = element.Attribute("fr").Value;
-                        if (ecDic.ContainsKey(en))
-                        {
-                            if (element.Attribute("en") == null)
+                            if (en.Attribute("data").Value != ecDic[enValue])
                             {
-                                element.Add(new XAttribute("en", ecDic[en]));
-                                rollback = false;
-                            }
-                            else if (element.Attribute("en").Value != ecDic[en])
-                            {
-                                element.Attribute("en").Value = ecDic[en];
+                                en.Attribute("data").Value = ecDic[enValue];
                                 rollback = false;
                             }
                         }
                         else
                         {
-                            if (element.Attribute("de") != null)
+                            if (name.XPathSelectElement("string[@lang='de']") != null)
                             {
-                                Console.WriteLine("ERROR: Unexpected content! Details: {0}", Environment.NewLine + en);
+                                Console.WriteLine("ERROR: Unexpected content! Details: "
+                                    + Environment.NewLine + en.Attribute("data").Value);
                                 forceRollback = true;
                             }
-                            if (element.Attribute("en") != null) element.Attribute("en").Remove();
                         }
                     }
-                    doc.Save(arg + ".xml");
-                    StringTableHelper.Encode(arg + ".xml");
-                    File.Delete(arg + ".xml");
                     if (rollback || forceRollback)
                     {
                         Console.WriteLine("Rolling back...");
-                        File.Delete(arg);
-                        File.Move(arg + ".bak", arg);
+                        File.Delete(xmlPath);
+                        File.Move(xmlPath + ".bak", xmlPath);
                     }
-                    else Console.WriteLine("Checked!");
+                    else
+                    {
+                        doc.Save(xmlPath);
+                        Console.WriteLine("Checked!");
+                    }
                 }
             }
             if (!processed) GenerateWordPackDictionary();

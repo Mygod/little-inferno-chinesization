@@ -1,0 +1,625 @@
+<font pointsize="76" extleading="0" maxascent="92" maxdescent="25">
+    <char value=" " texpage="-1" texx="0" texy="0" texw="0" texh="0" offsetx="0" offsety="0" advance="24.75"/>
+    <char value="!" texpage="1" texx="413" texy="154" texw="23" texh="74" offsetx="4" offsety="-70" advance="30.4844"/>
+    <char value="&quot;" texpage="1" texx="112" texy="677" texw="44" texh="33" offsetx="2" offsety="-72" advance="47.8906"/>
+    <char value="#" texpage="0" texx="58" texy="567" texw="67" texh="78" offsetx="1" offsety="-73" advance="67.4688"/>
+    <char value="$" texpage="0" texx="1" texy="393" texw="56" texh="92" offsetx="-1" offsety="-79" advance="54.7344"/>
+    <char value="%" texpage="0" texx="126" texy="567" texw="85" texh="78" offsetx="0" offsety="-72" advance="83.1406"/>
+    <char value="&amp;" texpage="0" texx="310" texy="642" texw="59" texh="76" offsetx="0" offsety="-71" advance="55.1406"/>
+    <char value="&apos;" texpage="1" texx="157" texy="677" texw="22" texh="33" offsetx="2" offsety="-72" advance="24.0156"/>
+    <char value="(" texpage="0" texx="460" texy="1" texw="26" texh="96" offsetx="3" offsety="-74" advance="25.25"/>
+    <char value=")" texpage="0" texx="487" texy="1" texw="26" texh="96" offsetx="-2" offsety="-74" advance="25.25"/>
+    <char value="*" texpage="1" texx="110" texy="638" texw="37" texh="35" offsetx="1" offsety="-72" advance="36.8906"/>
+    <char value="+" texpage="1" texx="656" texy="453" texw="62" texh="62" offsetx="3" offsety="-65" advance="67.3594"/>
+    <char value="," texpage="1" texx="80" texy="638" texw="29" texh="35" offsetx="0" offsety="-19" advance="27.375"/>
+    <char value="-" texpage="1" texx="641" texy="709" texw="30" texh="19" offsetx="2" offsety="-33" advance="31.6094"/>
+    <char value="." texpage="1" texx="328" texy="678" texw="23" texh="23" offsetx="3" offsety="-19" advance="27.375"/>
+  <char value="．" texpage="1" texx="328" texy="678" texw="23" texh="23" offsetx="-50" offsety="0" advance="0" />
+    <char value="/" texpage="0" texx="565" texy="1" texw="49" texh="95" offsetx="-1" offsety="-73" advance="47.3906"/>
+    <char value="0" texpage="0" texx="259" texy="642" texw="50" texh="76" offsetx="0" offsety="-71" advance="49.5156"/>
+    <char value="1" texpage="1" texx="207" texy="230" texw="29" texh="73" offsetx="8" offsety="-70" advance="49.5156"/>
+    <char value="2" texpage="1" texx="437" texy="154" texw="47" texh="74" offsetx="0" offsety="-71" advance="49.5156"/>
+    <char value="3" texpage="0" texx="213" texy="643" texw="45" texh="76" offsetx="3" offsety="-72" advance="49.5156"/>
+    <char value="4" texpage="1" texx="159" texy="230" texw="47" texh="73" offsetx="2" offsety="-70" advance="49.5156"/>
+    <char value="5" texpage="1" texx="485" texy="154" texw="43" texh="74" offsetx="3" offsety="-70" advance="49.5156"/>
+    <char value="6" texpage="1" texx="529" texy="154" texw="49" texh="74" offsetx="1" offsety="-70" advance="49.5156"/>
+    <char value="7" texpage="1" texx="111" texy="230" texw="47" texh="73" offsetx="5" offsety="-70" advance="49.5156"/>
+    <char value="8" texpage="0" texx="166" texy="646" texw="46" texh="76" offsetx="2" offsety="-71" advance="49.5156"/>
+    <char value="9" texpage="1" texx="579" texy="154" texw="49" texh="74" offsetx="1" offsety="-71" advance="49.5156"/>
+    <char value=":" texpage="1" texx="616" texy="578" texw="23" texh="48" offsetx="3" offsety="-44" advance="27.375"/>
+    <char value=";" texpage="1" texx="641" texy="517" texw="31" texh="60" offsetx="-5" offsety="-44" advance="27.375"/>
+    <char value="&lt;" texpage="1" texx="593" texy="453" texw="62" texh="63" offsetx="3" offsety="-66" advance="67.3594"/>
+    <char value="=" texpage="1" texx="293" texy="636" texw="62" texh="41" offsetx="3" offsety="-55" advance="67.3594"/>
+    <char value="&gt;" texpage="1" texx="673" texy="516" texw="62" texh="62" offsetx="3" offsety="-65" advance="67.3594"/>
+    <char value="?" texpage="0" texx="118" texy="646" texw="47" texh="76" offsetx="0" offsety="-71" advance="47.3906"/>
+    <char value="@" texpage="0" texx="58" texy="393" texw="80" texh="92" offsetx="3" offsety="-70" advance="85.2656"/>
+    <char value="A" texpage="1" texx="51" texy="230" texw="59" texh="73" offsetx="-1" offsety="-70" advance="53.6094"/>
+    <char value="B" texpage="1" texx="2" texy="230" texw="48" texh="73" offsetx="4" offsety="-70" advance="51.4844"/>
+    <char value="C" texpage="0" texx="73" texy="646" texw="44" texh="76" offsetx="1" offsety="-71" advance="44.2344"/>
+    <char value="D" texpage="1" texx="1" texy="304" texw="50" texh="73" offsetx="4" offsety="-70" advance="53.6094"/>
+    <char value="E" texpage="1" texx="52" texy="304" texw="37" texh="73" offsetx="4" offsety="-70" advance="42.1094"/>
+    <char value="F" texpage="1" texx="90" texy="304" texw="37" texh="73" offsetx="4" offsety="-70" advance="40"/>
+    <char value="G" texpage="0" texx="17" texy="647" texw="55" texh="76" offsetx="1" offsety="-72" advance="56.2656"/>
+    <char value="H" texpage="1" texx="128" texy="304" texw="50" texh="73" offsetx="4" offsety="-70" advance="57.25"/>
+    <char value="I" texpage="1" texx="179" texy="304" texw="22" texh="73" offsetx="5" offsety="-70" advance="30.0781"/>
+    <char value="J" texpage="1" texx="629" texy="155" texw="34" texh="74" offsetx="-1" offsety="-70" advance="35.75"/>
+    <char value="K" texpage="1" texx="202" texy="305" texw="52" texh="73" offsetx="4" offsety="-70" advance="52.4219"/>
+    <char value="L" texpage="1" texx="255" texy="305" texw="34" texh="73" offsetx="4" offsety="-70" advance="36.8906"/>
+    <char value="M" texpage="1" texx="290" texy="305" texw="73" texh="73" offsetx="1" offsety="-70" advance="75.25"/>
+    <char value="N" texpage="1" texx="364" texy="305" texw="56" texh="73" offsetx="4" offsety="-70" advance="62.625"/>
+    <char value="O" texpage="1" texx="1" texy="1" texw="55" texh="76" offsetx="1" offsety="-71" advance="56.5625"/>
+    <char value="P" texpage="1" texx="421" texy="305" texw="47" texh="73" offsetx="4" offsety="-70" advance="51.3906"/>
+    <char value="Q" texpage="0" texx="268" texy="481" texw="56" texh="81" offsetx="1" offsety="-72" advance="56.5625"/>
+    <char value="R" texpage="1" texx="469" texy="304" texw="50" texh="73" offsetx="4" offsety="-70" advance="51.4844"/>
+    <char value="S" texpage="1" texx="57" texy="1" texw="43" texh="76" offsetx="1" offsety="-72" advance="44.2344"/>
+    <char value="T" texpage="1" texx="520" texy="304" texw="42" texh="73" offsetx="-1" offsety="-70" advance="40"/>
+    <char value="U" texpage="1" texx="664" texy="155" texw="50" texh="74" offsetx="4" offsety="-70" advance="56.5625"/>
+    <char value="V" texpage="1" texx="563" texy="304" texw="61" texh="73" offsetx="-3" offsety="-70" advance="55.7344"/>
+    <char value="W" texpage="1" texx="625" texy="305" texw="82" texh="73" offsetx="-3" offsety="-70" advance="76.5469"/>
+    <char value="X" texpage="1" texx="678" texy="379" texw="57" texh="73" offsetx="-2" offsety="-70" advance="51.8281"/>
+    <char value="Y" texpage="1" texx="619" texy="379" texw="58" texh="73" offsetx="-3" offsety="-70" advance="51.6406"/>
+    <char value="Z" texpage="1" texx="566" texy="378" texw="52" texh="73" offsetx="-2" offsety="-70" advance="48.375"/>
+    <char value="[" texpage="0" texx="615" texy="1" texw="25" texh="95" offsetx="4" offsety="-73" advance="26.2344"/>
+    <char value="\" texpage="0" texx="641" texy="1" texw="49" texh="95" offsetx="0" offsety="-73" advance="47.3906"/>
+    <char value="]" texpage="0" texx="691" texy="1" texw="25" texh="95" offsetx="-1" offsety="-73" advance="26.2344"/>
+    <char value="^" texpage="1" texx="640" texy="579" texw="62" texh="48" offsetx="-1" offsety="-77" advance="58.9844"/>
+    <char value="_" texpage="1" texx="300" texy="706" texw="59" texh="12" offsetx="-4" offsety="4" advance="50.5"/>
+    <char value="`" texpage="1" texx="492" texy="687" texw="30" texh="22" offsetx="-1" offsety="-71" advance="33.6406"/>
+    <char value="a" texpage="1" texx="360" texy="526" texw="46" texh="55" offsetx="0" offsety="-51" advance="47.7812"/>
+    <char value="b" texpage="0" texx="212" texy="564" texw="46" texh="78" offsetx="3" offsety="-74" advance="47.8906"/>
+    <char value="c" texpage="1" texx="325" texy="526" texw="34" texh="55" offsetx="0" offsety="-51" advance="33.0469"/>
+    <char value="d" texpage="0" texx="259" texy="563" texw="46" texh="78" offsetx="0" offsety="-74" advance="47.7812"/>
+    <char value="e" texpage="1" texx="280" texy="526" texw="44" texh="55" offsetx="0" offsety="-51" advance="43"/>
+    <char value="f" texpage="1" texx="101" texy="1" texw="33" texh="76" offsetx="-1" offsety="-73" advance="28.3594"/>
+    <char value="g" texpage="1" texx="234" texy="453" texw="46" texh="72" offsetx="0" offsety="-50" advance="47.9844"/>
+    <char value="h" texpage="1" texx="135" texy="1" texw="44" texh="76" offsetx="3" offsety="-73" advance="47.6875"/>
+    <char value="i" texpage="1" texx="543" texy="378" texw="22" texh="73" offsetx="2" offsety="-70" advance="26.0469"/>
+    <char value="j" texpage="0" texx="139" texy="390" texw="22" texh="92" offsetx="3" offsety="-70" advance="26.0469"/>
+    <char value="k" texpage="1" texx="180" texy="1" texw="49" texh="76" offsetx="3" offsety="-73" advance="48.375"/>
+    <char value="l" texpage="1" texx="230" texy="1" texw="21" texh="76" offsetx="3" offsety="-73" advance="26.0469"/>
+    <char value="m" texpage="1" texx="132" texy="583" texw="67" texh="54" offsetx="2" offsety="-51" advance="70.5156"/>
+    <char value="n" texpage="1" texx="200" texy="583" texw="44" texh="54" offsetx="2" offsety="-51" advance="47.6875"/>
+    <char value="o" texpage="1" texx="233" texy="527" texw="46" texh="55" offsetx="0" offsety="-51" advance="45.5625"/>
+    <char value="p" texpage="1" texx="281" texy="453" texw="46" texh="72" offsetx="3" offsety="-50" advance="48.0781"/>
+    <char value="q" texpage="1" texx="328" texy="453" texw="46" texh="72" offsetx="0" offsety="-51" advance="47.9844"/>
+    <char value="r" texpage="1" texx="290" texy="582" texw="34" texh="53" offsetx="2" offsety="-50" advance="34.7656"/>
+    <char value="s" texpage="1" texx="190" texy="527" texw="42" texh="55" offsetx="-1" offsety="-51" advance="38.6719"/>
+    <char value="t" texpage="1" texx="559" texy="452" texw="33" texh="64" offsetx="-2" offsety="-61" advance="29"/>
+    <char value="u" texpage="1" texx="245" texy="583" texw="44" texh="54" offsetx="2" offsety="-49" advance="47.0469"/>
+    <char value="v" texpage="1" texx="325" texy="582" texw="47" texh="52" offsetx="-2" offsety="-49" advance="41.9219"/>
+    <char value="w" texpage="1" texx="373" texy="586" texw="70" texh="52" offsetx="-3" offsety="-49" advance="63.5156"/>
+    <char value="x" texpage="1" texx="444" texy="586" texw="53" texh="52" offsetx="-2" offsety="-49" advance="47.3906"/>
+    <char value="y" texpage="1" texx="463" texy="453" texw="50" texh="71" offsetx="-3" offsety="-49" advance="44.1406"/>
+    <char value="z" texpage="1" texx="498" texy="586" texw="42" texh="52" offsetx="-1" offsety="-49" advance="40"/>
+    <char value="{" texpage="0" texx="96" texy="1" texw="41" texh="102" offsetx="0" offsety="-78" advance="39.3125"/>
+    <char value="|" texpage="0" texx="322" texy="387" texw="18" texh="91" offsetx="21" offsety="-74" advance="59.375"/>
+    <char value="}" texpage="0" texx="138" texy="1" texw="41" texh="102" offsetx="-1" offsety="-78" advance="39.3125"/>
+    <char value="~" texpage="1" texx="265" texy="678" texw="62" texh="25" offsetx="3" offsety="-48" advance="66.2344"/>
+    <char value=" " texpage="-1" texx="0" texy="0" texw="0" texh="0" offsetx="0" offsety="0" advance="24.75"/>
+    <char value="¡" texpage="1" texx="712" texy="230" texw="23" texh="74" offsetx="4" offsety="-57" advance="30.4844"/>
+    <char value="¢" texpage="0" texx="694" texy="97" texw="41" texh="95" offsetx="-2" offsety="-73" advance="35.75"/>
+    <char value="£" texpage="1" texx="252" texy="1" texw="53" texh="76" offsetx="-1" offsety="-71" advance="49.5156"/>
+    <char value="¤" texpage="1" texx="458" texy="526" texw="59" texh="59" offsetx="5" offsety="-64" advance="70.2812"/>
+    <char value="¥" texpage="1" texx="484" texy="378" texw="58" texh="73" offsetx="-1" offsety="-70" advance="53.6094"/>
+    <char value="¦" texpage="0" texx="341" texy="386" texw="18" texh="91" offsetx="21" offsety="-74" advance="59.375"/>
+    <char value="§" texpage="0" texx="438" texy="99" texw="51" texh="94" offsetx="2" offsety="-71" advance="53.6094"/>
+    <char value="¨" texpage="1" texx="693" texy="699" texw="42" texh="20" offsetx="-4" offsety="-69" advance="33.6406"/>
+    <char value="©" texpage="0" texx="409" texy="478" texw="82" texh="82" offsetx="0" offsety="-77" advance="80.9844"/>
+    <char value="ª" texpage="1" texx="220" texy="638" texw="32" texh="38" offsetx="0" offsety="-71" advance="31.6094"/>
+    <char value="«" texpage="1" texx="136" texy="527" texw="53" texh="55" offsetx="0" offsety="-56" advance="50.5"/>
+    <char value="¬" texpage="1" texx="356" texy="639" texw="62" texh="42" offsetx="3" offsety="-55" advance="67.3594"/>
+    <char value="­" texpage="1" texx="610" texy="709" texw="30" texh="19" offsetx="2" offsety="-33" advance="31.6094"/>
+    <char value="®" texpage="0" texx="325" texy="479" texw="83" texh="82" offsetx="0" offsety="-77" advance="80.9844"/>
+    <char value="¯" texpage="1" texx="240" texy="705" texw="59" texh="12" offsetx="-4" offsety="-82" advance="50.5"/>
+    <char value="°" texpage="1" texx="181" texy="638" texw="38" texh="38" offsetx="2" offsety="-71" advance="40.3906"/>
+    <char value="±" texpage="0" texx="162" texy="483" texw="62" texh="80" offsetx="3" offsety="-74" advance="67.3594"/>
+    <char value="²" texpage="1" texx="640" texy="628" texw="32" texh="47" offsetx="1" offsety="-72" advance="34.7656"/>
+    <char value="³" texpage="1" texx="608" texy="635" texw="31" texh="47" offsetx="2" offsety="-71" advance="34.7656"/>
+    <char value="´" texpage="1" texx="523" texy="687" texw="29" texh="22" offsetx="6" offsety="-71" advance="33.6406"/>
+    <char value="µ" texpage="1" texx="514" texy="452" texw="44" texh="68" offsetx="2" offsety="-50" advance="47.0469"/>
+    <char value="¶" texpage="0" texx="360" texy="386" texw="60" texh="91" offsetx="-1" offsety="-70" advance="56.1719"/>
+    <char value="·" texpage="1" texx="352" texy="682" texw="23" texh="23" offsetx="3" offsety="-45" advance="27.375"/>
+    <char value="¸" texpage="1" texx="210" texy="677" texw="27" texh="27" offsetx="4" offsety="-4" advance="33.6406"/>
+    <char value="¹" texpage="1" texx="487" texy="639" texw="22" texh="46" offsetx="5" offsety="-71" advance="34.7656"/>
+    <char value="º" texpage="1" texx="148" texy="638" texw="32" texh="38" offsetx="-1" offsety="-71" advance="29.4844"/>
+    <char value="»" texpage="1" texx="82" texy="526" texw="53" texh="55" offsetx="-2" offsety="-56" advance="50.5"/>
+    <char value="¼" texpage="0" texx="306" texy="563" texw="80" texh="78" offsetx="6" offsety="-72" advance="87.3906"/>
+    <char value="½" texpage="0" texx="387" texy="562" texw="81" texh="78" offsetx="6" offsety="-72" advance="87.3906"/>
+    <char value="¾" texpage="0" texx="469" texy="561" texw="84" texh="78" offsetx="2" offsety="-71" advance="87.3906"/>
+    <char value="¿" texpage="1" texx="306" texy="1" texw="47" texh="76" offsetx="2" offsety="-57" advance="47.3906"/>
+    <char value="À" texpage="0" texx="232" texy="199" texw="59" texh="93" offsetx="-1" offsety="-90" advance="53.6094"/>
+    <char value="Á" texpage="0" texx="292" texy="198" texw="59" texh="93" offsetx="-1" offsety="-90" advance="53.6094"/>
+    <char value="Â" texpage="0" texx="352" texy="197" texw="59" texh="93" offsetx="-1" offsety="-90" advance="53.6094"/>
+    <char value="Ã" texpage="0" texx="421" texy="385" texw="59" texh="91" offsetx="-1" offsety="-88" advance="53.6094"/>
+    <char value="Ä" texpage="0" texx="481" texy="382" texw="59" texh="91" offsetx="-2" offsety="-88" advance="53.6094"/>
+    <char value="Å" texpage="0" texx="634" texy="97" texw="59" texh="95" offsetx="-2" offsety="-92" advance="53.6094"/>
+    <char value="Æ" texpage="1" texx="412" texy="379" texw="71" texh="73" offsetx="-2" offsety="-70" advance="70.0781"/>
+    <char value="Ç" texpage="0" texx="589" texy="97" texw="44" texh="95" offsetx="1" offsety="-72" advance="44.2344"/>
+    <char value="È" texpage="0" texx="412" texy="194" texw="37" texh="93" offsetx="4" offsety="-90" advance="42.1094"/>
+    <char value="É" texpage="0" texx="450" texy="194" texw="37" texh="93" offsetx="4" offsety="-90" advance="42.1094"/>
+    <char value="Ê" texpage="0" texx="488" texy="194" texw="41" texh="93" offsetx="2" offsety="-90" advance="42.1094"/>
+    <char value="Ë" texpage="0" texx="541" texy="382" texw="42" texh="91" offsetx="1" offsety="-88" advance="42.1094"/>
+    <char value="Ì" texpage="0" texx="530" texy="194" texw="30" texh="93" offsetx="-3" offsety="-90" advance="30.0781"/>
+    <char value="Í" texpage="0" texx="561" texy="194" texw="29" texh="93" offsetx="5" offsety="-90" advance="30.0781"/>
+    <char value="Î" texpage="0" texx="591" texy="193" texw="40" texh="93" offsetx="-4" offsety="-90" advance="30.0781"/>
+    <char value="Ï" texpage="0" texx="584" texy="382" texw="42" texh="91" offsetx="-6" offsety="-88" advance="30.0781"/>
+    <char value="Ð" texpage="1" texx="356" texy="379" texw="55" texh="73" offsetx="-1" offsety="-70" advance="54.6406"/>
+    <char value="Ñ" texpage="0" texx="627" texy="381" texw="56" texh="91" offsetx="4" offsety="-88" advance="62.625"/>
+    <char value="Ò" texpage="0" texx="382" texy="99" texw="55" texh="94" offsetx="1" offsety="-90" advance="56.5625"/>
+    <char value="Ó" texpage="0" texx="326" texy="102" texw="55" texh="94" offsetx="1" offsety="-90" advance="56.5625"/>
+    <char value="Ô" texpage="0" texx="270" texy="103" texw="55" texh="94" offsetx="1" offsety="-90" advance="56.5625"/>
+    <char value="Õ" texpage="0" texx="162" texy="390" texw="55" texh="92" offsetx="1" offsety="-88" advance="56.5625"/>
+    <char value="Ö" texpage="0" texx="632" texy="193" texw="55" texh="93" offsetx="1" offsety="-88" advance="56.5625"/>
+    <char value="×" texpage="1" texx="581" texy="517" texw="59" texh="60" offsetx="5" offsety="-64" advance="67.3594"/>
+    <char value="Ø" texpage="0" texx="1" texy="567" texw="56" texh="79" offsetx="1" offsety="-73" advance="56.5625"/>
+    <char value="Ù" texpage="0" texx="219" texy="104" texw="50" texh="94" offsetx="4" offsety="-90" advance="56.5625"/>
+    <char value="Ú" texpage="0" texx="168" texy="104" texw="50" texh="94" offsetx="4" offsety="-90" advance="56.5625"/>
+    <char value="Û" texpage="0" texx="117" texy="104" texw="50" texh="94" offsetx="4" offsety="-90" advance="56.5625"/>
+    <char value="Ü" texpage="0" texx="685" texy="287" texw="50" texh="93" offsetx="4" offsety="-89" advance="56.5625"/>
+    <char value="Ý" texpage="0" texx="626" texy="287" texw="58" texh="93" offsetx="-3" offsety="-90" advance="51.6406"/>
+    <char value="Þ" texpage="1" texx="308" texy="379" texw="47" texh="73" offsetx="4" offsety="-70" advance="50.5"/>
+    <char value="ß" texpage="0" texx="554" texy="562" texw="47" texh="78" offsetx="2" offsety="-73" advance="48.875"/>
+    <char value="à" texpage="1" texx="589" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="47.7812"/>
+    <char value="á" texpage="1" texx="542" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="47.7812"/>
+    <char value="â" texpage="1" texx="494" texy="78" texw="47" texh="75" offsetx="0" offsety="-71" advance="47.7812"/>
+    <char value="ã" texpage="1" texx="261" texy="379" texw="46" texh="73" offsetx="0" offsety="-69" advance="47.7812"/>
+    <char value="ä" texpage="1" texx="664" texy="230" texw="47" texh="74" offsetx="0" offsety="-69" advance="47.7812"/>
+    <char value="å" texpage="0" texx="468" texy="641" texw="46" texh="77" offsetx="0" offsety="-73" advance="47.7812"/>
+    <char value="æ" texpage="1" texx="12" texy="526" texw="69" texh="55" offsetx="0" offsety="-51" advance="67.8594"/>
+    <char value="ç" texpage="1" texx="629" texy="230" texw="34" texh="74" offsetx="0" offsety="-51" advance="33.0469"/>
+    <char value="è" texpage="1" texx="449" texy="78" texw="44" texh="75" offsetx="0" offsety="-71" advance="43"/>
+    <char value="é" texpage="1" texx="404" texy="78" texw="44" texh="75" offsetx="0" offsety="-71" advance="43"/>
+    <char value="ê" texpage="1" texx="359" texy="78" texw="44" texh="75" offsetx="0" offsety="-71" advance="43"/>
+    <char value="ë" texpage="1" texx="216" texy="379" texw="44" texh="73" offsetx="0" offsety="-69" advance="43"/>
+    <char value="ì" texpage="1" texx="598" texy="229" texw="30" texh="74" offsetx="-5" offsety="-71" advance="26.0469"/>
+    <char value="í" texpage="1" texx="567" texy="229" texw="30" texh="74" offsetx="2" offsety="-71" advance="26.0469"/>
+    <char value="î" texpage="1" texx="174" texy="379" texw="41" texh="73" offsetx="-7" offsety="-70" advance="26.0469"/>
+    <char value="ï" texpage="1" texx="375" texy="453" texw="42" texh="72" offsetx="-8" offsety="-69" advance="26.0469"/>
+    <char value="ð" texpage="0" texx="602" texy="565" texw="46" texh="78" offsetx="0" offsety="-74" advance="45.5625"/>
+    <char value="ñ" texpage="1" texx="418" texy="453" texw="44" texh="72" offsetx="3" offsety="-69" advance="47.6875"/>
+    <char value="ò" texpage="1" texx="312" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="45.5625"/>
+    <char value="ó" texpage="1" texx="265" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="45.5625"/>
+    <char value="ô" texpage="1" texx="218" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="45.5625"/>
+    <char value="õ" texpage="1" texx="127" texy="378" texw="46" texh="73" offsetx="0" offsety="-69" advance="45.5625"/>
+    <char value="ö" texpage="1" texx="520" texy="229" texw="46" texh="74" offsetx="0" offsety="-69" advance="45.5625"/>
+    <char value="÷" texpage="1" texx="518" texy="521" texw="62" texh="60" offsetx="3" offsety="-64" advance="67.3594"/>
+    <char value="ø" texpage="1" texx="407" texy="526" texw="50" texh="59" offsetx="-2" offsety="-53" advance="45.5625"/>
+    <char value="ù" texpage="1" texx="173" texy="78" texw="44" texh="75" offsetx="2" offsety="-71" advance="47.0469"/>
+    <char value="ú" texpage="1" texx="128" texy="78" texw="44" texh="75" offsetx="2" offsety="-71" advance="47.0469"/>
+    <char value="û" texpage="1" texx="83" texy="78" texw="44" texh="75" offsetx="2" offsety="-70" advance="47.0469"/>
+    <char value="ü" texpage="1" texx="475" texy="229" texw="44" texh="74" offsetx="2" offsety="-69" advance="47.0469"/>
+    <char value="ý" texpage="0" texx="218" texy="388" texw="50" texh="92" offsetx="-3" offsety="-71" advance="44.1406"/>
+    <char value="þ" texpage="0" texx="542" texy="98" texw="46" texh="95" offsetx="3" offsety="-73" advance="48.0781"/>
+    <char value="ÿ" texpage="0" texx="684" texy="381" texw="50" texh="91" offsetx="-3" offsety="-69" advance="44.1406"/>
+    <char value="Ă" texpage="0" texx="566" texy="288" texw="59" texh="93" offsetx="-1" offsety="-90" advance="53.6094"/>
+    <char value="ă" texpage="1" texx="36" texy="78" texw="46" texh="75" offsetx="0" offsety="-71" advance="47.7812"/>
+    <char value="Ą" texpage="0" texx="52" texy="106" texw="64" texh="94" offsetx="-2" offsety="-70" advance="53.6094"/>
+    <char value="ą" texpage="1" texx="1" texy="154" texw="52" texh="75" offsetx="0" offsety="-51" advance="47.7812"/>
+    <char value="Ć" texpage="0" texx="6" texy="109" texw="45" texh="94" offsetx="1" offsety="-89" advance="44.2344"/>
+    <char value="ć" texpage="1" texx="54" texy="154" texw="38" texh="75" offsetx="0" offsety="-71" advance="33.0469"/>
+    <char value="Č" texpage="0" texx="1" texy="204" texw="47" texh="94" offsetx="1" offsety="-89" advance="44.2344"/>
+    <char value="č" texpage="1" texx="93" texy="154" texw="41" texh="75" offsetx="-2" offsety="-71" advance="33.0469"/>
+    <char value="Ď" texpage="0" texx="515" texy="288" texw="50" texh="93" offsetx="4" offsety="-90" advance="53.6094"/>
+    <char value="ď" texpage="0" texx="649" texy="565" texw="60" texh="78" offsetx="0" offsety="-74" advance="58.8906"/>
+    <char value="Đ" texpage="1" texx="71" texy="378" texw="55" texh="73" offsetx="-1" offsety="-70" advance="54.6406"/>
+    <char value="đ" texpage="0" texx="683" texy="644" texw="52" texh="78" offsetx="0" offsety="-74" advance="47.7812"/>
+    <char value="Ę" texpage="0" texx="49" texy="204" texw="38" texh="94" offsetx="4" offsety="-70" advance="42.1094"/>
+    <char value="ę" texpage="1" texx="135" texy="154" texw="44" texh="75" offsetx="0" offsety="-51" advance="43"/>
+    <char value="Ě" texpage="0" texx="473" texy="288" texw="41" texh="93" offsetx="3" offsety="-90" advance="42.1094"/>
+    <char value="ě" texpage="1" texx="180" texy="154" texw="44" texh="75" offsetx="0" offsety="-71" advance="43"/>
+    <char value="ı" texpage="1" texx="541" texy="582" texw="21" texh="52" offsetx="3" offsety="-49" advance="26.0469"/>
+    <char value="Ĺ" texpage="0" texx="437" texy="288" texw="35" texh="93" offsetx="4" offsety="-90" advance="36.8906"/>
+    <char value="ĺ" texpage="0" texx="333" texy="1" texw="30" texh="97" offsetx="3" offsety="-94" advance="26.0469"/>
+    <char value="Ľ" texpage="0" texx="395" texy="291" texw="41" texh="93" offsetx="0" offsety="-90" advance="36.8906"/>
+    <char value="ľ" texpage="1" texx="354" texy="1" texw="36" texh="76" offsetx="3" offsety="-73" advance="36.6406"/>
+    <char value="Ł" texpage="1" texx="32" texy="378" texw="38" texh="73" offsetx="0" offsety="-70" advance="36.8906"/>
+    <char value="ł" texpage="1" texx="391" texy="1" texw="32" texh="76" offsetx="-3" offsety="-73" advance="26.0469"/>
+    <char value="Ń" texpage="0" texx="338" texy="292" texw="56" texh="93" offsetx="4" offsety="-90" advance="62.625"/>
+    <char value="ń" texpage="1" texx="430" texy="229" texw="44" texh="74" offsetx="2" offsety="-71" advance="47.6875"/>
+    <char value="Ň" texpage="0" texx="281" texy="293" texw="56" texh="93" offsetx="4" offsety="-90" advance="62.625"/>
+    <char value="ň" texpage="1" texx="1" texy="452" texw="44" texh="73" offsetx="2" offsety="-70" advance="47.6875"/>
+    <char value="Ő" texpage="0" texx="88" texy="201" texw="55" texh="94" offsetx="1" offsety="-90" advance="56.5625"/>
+    <char value="ő" texpage="1" texx="225" texy="154" texw="52" texh="75" offsetx="0" offsety="-71" advance="45.5625"/>
+    <char value="Œ" texpage="1" texx="424" texy="1" texw="70" texh="76" offsetx="1" offsety="-72" advance="71.6094"/>
+    <char value="œ" texpage="1" texx="1" texy="582" texw="70" texh="55" offsetx="0" offsety="-51" advance="69.5781"/>
+    <char value="Ŕ" texpage="0" texx="230" texy="294" texw="50" texh="93" offsetx="4" offsety="-90" advance="51.4844"/>
+    <char value="ŕ" texpage="1" texx="393" texy="230" texw="36" texh="74" offsetx="2" offsety="-71" advance="34.7656"/>
+    <char value="Ř" texpage="0" texx="179" texy="294" texw="50" texh="93" offsetx="4" offsety="-90" advance="51.4844"/>
+    <char value="ř" texpage="1" texx="46" texy="452" texw="41" texh="73" offsetx="-2" offsety="-70" advance="34.7656"/>
+    <char value="Ś" texpage="0" texx="144" texy="199" texw="43" texh="94" offsetx="1" offsety="-90" advance="44.2344"/>
+    <char value="ś" texpage="1" texx="278" texy="154" texw="42" texh="75" offsetx="-1" offsety="-71" advance="38.6719"/>
+    <char value="Ş" texpage="0" texx="180" texy="1" texw="43" texh="102" offsetx="2" offsety="-71" advance="44.2344"/>
+    <char value="ş" texpage="0" texx="225" texy="481" texw="42" texh="81" offsetx="-1" offsety="-50" advance="38.6719"/>
+    <char value="Š" texpage="0" texx="188" texy="199" texw="43" texh="94" offsetx="1" offsety="-89" advance="44.2344"/>
+    <char value="š" texpage="1" texx="321" texy="154" texw="42" texh="75" offsetx="-1" offsety="-71" advance="38.6719"/>
+    <char value="Ţ" texpage="0" texx="290" texy="1" texw="42" texh="100" offsetx="-1" offsety="-70" advance="40"/>
+    <char value="ţ" texpage="0" texx="703" texy="473" texw="32" texh="91" offsetx="-1" offsety="-61" advance="29"/>
+    <char value="Ť" texpage="0" texx="136" texy="296" texw="42" texh="93" offsetx="-1" offsety="-90" advance="40"/>
+    <char value="ť" texpage="1" texx="495" texy="1" texw="43" texh="76" offsetx="-1" offsety="-73" advance="41.125"/>
+    <char value="Ů" texpage="0" texx="514" texy="1" texw="50" texh="96" offsetx="4" offsety="-92" advance="56.5625"/>
+    <char value="ů" texpage="0" texx="423" texy="641" texw="44" texh="77" offsetx="2" offsety="-72" advance="47.0469"/>
+    <char value="Ű" texpage="0" texx="490" texy="98" texw="51" texh="95" offsetx="4" offsety="-90" advance="56.5625"/>
+    <char value="ű" texpage="1" texx="364" texy="154" texw="48" texh="75" offsetx="2" offsety="-70" advance="47.0469"/>
+    <char value="Ÿ" texpage="0" texx="644" texy="473" texw="58" texh="91" offsetx="-3" offsety="-88" advance="51.6406"/>
+    <char value="Ź" texpage="0" texx="83" texy="299" texw="52" texh="93" offsetx="-2" offsety="-90" advance="48.375"/>
+    <char value="ź" texpage="1" texx="350" texy="230" texw="42" texh="74" offsetx="-1" offsety="-71" advance="40"/>
+    <char value="Ż" texpage="0" texx="269" texy="388" texw="52" texh="92" offsetx="-2" offsety="-89" advance="48.375"/>
+    <char value="ż" texpage="1" texx="88" texy="452" texw="42" texh="73" offsetx="-1" offsety="-70" advance="40"/>
+    <char value="Ž" texpage="0" texx="30" texy="299" texw="52" texh="93" offsetx="-2" offsety="-90" advance="48.375"/>
+    <char value="ž" texpage="1" texx="131" texy="452" texw="42" texh="73" offsetx="-1" offsety="-70" advance="40"/>
+    <char value="ƒ" texpage="0" texx="224" texy="1" texw="65" texh="101" offsetx="-4" offsety="-77" advance="56.1719"/>
+    <char value="ˆ" texpage="1" texx="600" texy="687" texw="41" texh="21" offsetx="-3" offsety="-70" advance="33.6406"/>
+    <char value="ˇ" texpage="1" texx="642" texy="677" texw="41" texh="21" offsetx="-4" offsety="-70" advance="33.6406"/>
+    <char value="ˉ" texpage="1" texx="360" texy="709" texw="39" texh="16" offsetx="-2" offsety="-67" advance="33.6406"/>
+    <char value="˘" texpage="1" texx="684" texy="677" texw="37" texh="21" offsetx="-1" offsety="-71" advance="33.6406"/>
+    <char value="˙" texpage="1" texx="672" texy="699" texw="20" texh="20" offsetx="7" offsety="-70" advance="33.6406"/>
+    <char value="˚" texpage="1" texx="238" texy="678" texw="26" texh="26" offsetx="4" offsety="-72" advance="33.6406"/>
+    <char value="˛" texpage="1" texx="180" texy="677" texw="29" texh="29" offsetx="5" offsety="-5" advance="33.6406"/>
+    <char value="˜" texpage="1" texx="568" texy="710" texw="41" texh="19" offsetx="-4" offsety="-69" advance="33.6406"/>
+    <char value="˝" texpage="1" texx="553" texy="687" texw="46" texh="22" offsetx="2" offsety="-71" advance="33.6406"/>
+    <char value="π" texpage="1" texx="563" texy="582" texw="52" texh="52" offsetx="-1" offsety="-49" advance="48.6719"/>
+    <char value="–" texpage="1" texx="509" texy="710" texw="58" texh="19" offsetx="-3" offsety="-36" advance="50.5"/>
+    <char value="—" texpage="1" texx="400" texy="710" texw="108" texh="19" offsetx="-3" offsety="-35" advance="101"/>
+    <char value="‘" texpage="1" texx="60" texy="638" texw="19" texh="34" offsetx="5" offsety="-72" advance="27.375"/>
+    <char value="’" texpage="1" texx="40" texy="638" texw="19" texh="34" offsetx="5" offsety="-72" advance="27.375"/>
+    <char value="‚" texpage="1" texx="20" texy="638" texw="19" texh="34" offsetx="5" offsety="-16" advance="27.375"/>
+    <char value="“" texpage="1" texx="1" texy="673" texw="36" texh="34" offsetx="5" offsety="-72" advance="44.2344"/>
+    <char value="”" texpage="1" texx="38" texy="673" texw="36" texh="34" offsetx="5" offsety="-72" advance="44.2344"/>
+    <char value="„" texpage="1" texx="75" texy="674" texw="36" texh="34" offsetx="5" offsety="-16" advance="44.2344"/>
+    <char value="†" texpage="0" texx="364" texy="1" texw="47" texh="97" offsetx="2" offsety="-75" advance="49.5156"/>
+    <char value="‡" texpage="0" texx="412" texy="1" texw="47" texh="97" offsetx="2" offsety="-76" advance="49.5156"/>
+    <char value="•" texpage="1" texx="253" texy="638" texw="39" texh="39" offsetx="6" offsety="-56" advance="50.5"/>
+    <char value="…" texpage="1" texx="376" texy="685" texw="91" texh="23" offsetx="6" offsety="-19" advance="101"/>
+    <char value="‰" texpage="0" texx="573" texy="644" texw="109" texh="78" offsetx="0" offsety="-71" advance="110.516"/>
+    <char value="‹" texpage="1" texx="72" texy="582" texw="29" texh="55" offsetx="0" offsety="-56" advance="27.375"/>
+    <char value="›" texpage="1" texx="102" texy="582" texw="29" texh="55" offsetx="-1" offsety="-56" advance="27.375"/>
+    <char value="€" texpage="1" texx="539" texy="1" texw="48" texh="76" offsetx="-2" offsety="-72" advance="45.4688"/>
+    <char value="™" texpage="1" texx="510" texy="639" texw="97" texh="47" offsetx="-1" offsety="-76" advance="95.7656"/>
+    <char value="Ω" texpage="1" texx="294" texy="230" texw="55" texh="74" offsetx="1" offsety="-71" advance="56.5625"/>
+    <char value="∂" texpage="1" texx="237" texy="230" texw="56" texh="74" offsetx="0" offsety="-69" advance="55.875"/>
+    <char value="∆" texpage="1" texx="174" texy="453" texw="59" texh="73" offsetx="-1" offsety="-70" advance="53.6094"/>
+    <char value="∏" texpage="0" texx="593" texy="474" texw="50" texh="87" offsetx="4" offsety="-70" advance="57.25"/>
+    <char value="∑" texpage="0" texx="555" texy="474" texw="37" texh="87" offsetx="4" offsety="-70" advance="42.1094"/>
+    <char value="∕" texpage="0" texx="515" texy="641" texw="57" texh="78" offsetx="-18" offsety="-72" advance="17.8594"/>
+    <char value="∙" texpage="1" texx="468" texy="686" texw="23" texh="23" offsetx="3" offsety="-45" advance="27.375"/>
+    <char value="√" texpage="0" texx="36" texy="1" texw="59" texh="104" offsetx="1" offsety="-97" advance="55.4375"/>
+    <char value="∞" texpage="1" texx="419" texy="639" texw="67" texh="45" offsetx="3" offsety="-57" advance="72"/>
+    <char value="∫" texpage="0" texx="1" texy="1" texw="34" texh="107" offsetx="-3" offsety="-82" advance="27.6719"/>
+    <char value="≈" texpage="1" texx="673" texy="628" texw="62" texh="48" offsetx="3" offsety="-58" advance="66.2344"/>
+    <char value="≠" texpage="0" texx="492" texy="474" texw="62" texh="84" offsetx="3" offsety="-76" advance="67.3594"/>
+    <char value="≤" texpage="0" texx="99" texy="486" texw="62" texh="80" offsetx="3" offsety="-74" advance="67.3594"/>
+    <char value="≥" texpage="0" texx="36" texy="486" texw="62" texh="80" offsetx="3" offsety="-74" advance="67.3594"/>
+    <char value="◊" texpage="0" texx="370" texy="642" texw="52" texh="77" offsetx="-1" offsety="-74" advance="49.9062"/>
+    <char value="" texpage="1" texx="588" texy="1" texw="49" texh="76" offsetx="-1" offsety="-73" advance="49.5156"/>
+    <char value="" texpage="1" texx="638" texy="1" texw="49" texh="76" offsetx="-1" offsety="-73" advance="49.6094"/>
+    <char value="ﬁ" texpage="1" texx="686" texy="78" texw="49" texh="76" offsetx="-1" offsety="-73" advance="49.5156"/>
+    <char value="ﬂ" texpage="1" texx="636" texy="78" texw="49" texh="76" offsetx="-1" offsety="-73" advance="49.6094"/>
+    <kerning char1="," char2="’" amount="-6.48438"/>
+    <kerning char1="," char2="”" amount="-5.59375"/>
+    <kerning char1="." char2="’" amount="-8.3125"/>
+    <kerning char1="." char2="”" amount="-10.1406"/>
+    <kerning char1="A" char2="C" amount="-1.92188"/>
+    <kerning char1="A" char2="G" amount="-0.890625"/>
+    <kerning char1="A" char2="O" amount="-0.890625"/>
+    <kerning char1="A" char2="Q" amount="-0.984375"/>
+    <kerning char1="A" char2="T" amount="-2.92188"/>
+    <kerning char1="A" char2="U" amount="-0.890625"/>
+    <kerning char1="A" char2="V" amount="-3.65625"/>
+    <kerning char1="A" char2="W" amount="-1.92188"/>
+    <kerning char1="A" char2="Y" amount="-5.59375"/>
+    <kerning char1="A" char2="v" amount="-1.92188"/>
+    <kerning char1="A" char2="w" amount="-0.984375"/>
+    <kerning char1="A" char2="y" amount="-0.984375"/>
+    <kerning char1="A" char2="’" amount="-9.20312"/>
+    <kerning char1="A" char2="”" amount="-9.20312"/>
+    <kerning char1="B" char2="," amount="-3.65625"/>
+    <kerning char1="B" char2="." amount="-2.8125"/>
+    <kerning char1="B" char2="U" amount="-0.890625"/>
+    <kerning char1="B" char2="Ü" amount="-0.890625"/>
+    <kerning char1="D" char2="," amount="-4.65625"/>
+    <kerning char1="D" char2="." amount="-3.65625"/>
+    <kerning char1="D" char2="A" amount="-1.82812"/>
+    <kerning char1="D" char2="V" amount="-0.984375"/>
+    <kerning char1="D" char2="Y" amount="-3.65625"/>
+    <kerning char1="D" char2="Ä" amount="-1.82812"/>
+    <kerning char1="D" char2="Å" amount="-1.82812"/>
+    <kerning char1="F" char2="," amount="-11.0312"/>
+    <kerning char1="F" char2="." amount="-9.20312"/>
+    <kerning char1="F" char2="A" amount="-1.92188"/>
+    <kerning char1="F" char2="e" amount="-0.890625"/>
+    <kerning char1="F" char2="Ä" amount="-1.92188"/>
+    <kerning char1="F" char2="Å" amount="-1.92188"/>
+    <kerning char1="G" char2="," amount="-2.71875"/>
+    <kerning char1="G" char2="." amount="-2.71875"/>
+    <kerning char1="J" char2="," amount="-5.59375"/>
+    <kerning char1="J" char2="." amount="-3.65625"/>
+    <kerning char1="J" char2=":" amount="-3.01562"/>
+    <kerning char1="J" char2=";" amount="-3.01562"/>
+    <kerning char1="J" char2="A" amount="-1.82812"/>
+    <kerning char1="J" char2="e" amount="-0.890625"/>
+    <kerning char1="J" char2="u" amount="-0.890625"/>
+    <kerning char1="J" char2="y" amount="-0.890625"/>
+    <kerning char1="J" char2="Ä" amount="-1.82812"/>
+    <kerning char1="J" char2="Å" amount="-1.82812"/>
+    <kerning char1="J" char2="ü" amount="-0.890625"/>
+    <kerning char1="K" char2="C" amount="-1.82812"/>
+    <kerning char1="K" char2="G" amount="-1.82812"/>
+    <kerning char1="K" char2="O" amount="-1.92188"/>
+    <kerning char1="K" char2="a" amount="-0.984375"/>
+    <kerning char1="K" char2="e" amount="-1.82812"/>
+    <kerning char1="K" char2="o" amount="-0.890625"/>
+    <kerning char1="K" char2="u" amount="-1.82812"/>
+    <kerning char1="K" char2="v" amount="-1.82812"/>
+    <kerning char1="K" char2="w" amount="-1.82812"/>
+    <kerning char1="K" char2="y" amount="-0.890625"/>
+    <kerning char1="K" char2="Ö" amount="-1.92188"/>
+    <kerning char1="K" char2="ä" amount="-0.984375"/>
+    <kerning char1="K" char2="å" amount="-0.984375"/>
+    <kerning char1="K" char2="ö" amount="-0.890625"/>
+    <kerning char1="K" char2="ü" amount="-1.82812"/>
+    <kerning char1="L" char2="C" amount="-1.82812"/>
+    <kerning char1="L" char2="O" amount="-0.890625"/>
+    <kerning char1="L" char2="T" amount="-1.82812"/>
+    <kerning char1="L" char2="U" amount="-0.890625"/>
+    <kerning char1="L" char2="V" amount="-0.890625"/>
+    <kerning char1="L" char2="W" amount="-0.890625"/>
+    <kerning char1="L" char2="Y" amount="-3.65625"/>
+    <kerning char1="L" char2="Ö" amount="-0.890625"/>
+    <kerning char1="L" char2="Ü" amount="-0.890625"/>
+    <kerning char1="L" char2="’" amount="-6.48438"/>
+    <kerning char1="L" char2="”" amount="-5.59375"/>
+    <kerning char1="N" char2="," amount="-0.890625"/>
+    <kerning char1="N" char2="." amount="-0.890625"/>
+    <kerning char1="O" char2="," amount="-4.65625"/>
+    <kerning char1="O" char2="." amount="-3.65625"/>
+    <kerning char1="O" char2="A" amount="-1.92188"/>
+    <kerning char1="O" char2="T" amount="-0.890625"/>
+    <kerning char1="O" char2="V" amount="-0.890625"/>
+    <kerning char1="O" char2="X" amount="-0.890625"/>
+    <kerning char1="O" char2="Y" amount="-3.65625"/>
+    <kerning char1="O" char2="Ä" amount="-1.92188"/>
+    <kerning char1="O" char2="Å" amount="-1.92188"/>
+    <kerning char1="P" char2="," amount="-14.7969"/>
+    <kerning char1="P" char2="." amount="-14.7969"/>
+    <kerning char1="P" char2="A" amount="-4.65625"/>
+    <kerning char1="P" char2="a" amount="-0.890625"/>
+    <kerning char1="P" char2="e" amount="-1.82812"/>
+    <kerning char1="P" char2="o" amount="-1.82812"/>
+    <kerning char1="P" char2="Ä" amount="-4.65625"/>
+    <kerning char1="P" char2="Å" amount="-4.65625"/>
+    <kerning char1="P" char2="å" amount="-0.890625"/>
+    <kerning char1="Q" char2="." amount="-1.82812"/>
+    <kerning char1="Q" char2="V" amount="-1.82812"/>
+    <kerning char1="Q" char2="Y" amount="-3.65625"/>
+    <kerning char1="R" char2="V" amount="-1.82812"/>
+    <kerning char1="R" char2="Y" amount="-3.76562"/>
+    <kerning char1="R" char2="a" amount="0.984375"/>
+    <kerning char1="R" char2="e" amount="0.984375"/>
+    <kerning char1="R" char2="v" amount="1.82812"/>
+    <kerning char1="R" char2="w" amount="0.890625"/>
+    <kerning char1="R" char2="y" amount="0.890625"/>
+    <kerning char1="R" char2="ä" amount="0.984375"/>
+    <kerning char1="R" char2="å" amount="0.984375"/>
+    <kerning char1="S" char2="," amount="-3.65625"/>
+    <kerning char1="S" char2="." amount="-2.71875"/>
+    <kerning char1="T" char2="," amount="-7.42188"/>
+    <kerning char1="T" char2="-" amount="-5.59375"/>
+    <kerning char1="T" char2="." amount="-7.42188"/>
+    <kerning char1="T" char2=":" amount="-2.71875"/>
+    <kerning char1="T" char2=";" amount="-4.65625"/>
+    <kerning char1="T" char2="A" amount="-1.82812"/>
+    <kerning char1="T" char2="C" amount="-1.92188"/>
+    <kerning char1="T" char2="G" amount="-0.890625"/>
+    <kerning char1="T" char2="O" amount="-0.890625"/>
+    <kerning char1="T" char2="Q" amount="-0.890625"/>
+    <kerning char1="T" char2="a" amount="-2.71875"/>
+    <kerning char1="T" char2="c" amount="-4.65625"/>
+    <kerning char1="T" char2="e" amount="-3.65625"/>
+    <kerning char1="T" char2="m" amount="-1.82812"/>
+    <kerning char1="T" char2="o" amount="-3.65625"/>
+    <kerning char1="T" char2="r" amount="-1.82812"/>
+    <kerning char1="T" char2="s" amount="-2.71875"/>
+    <kerning char1="T" char2="u" amount="-1.82812"/>
+    <kerning char1="T" char2="w" amount="-0.890625"/>
+    <kerning char1="T" char2="y" amount="-1.82812"/>
+    <kerning char1="T" char2="z" amount="-1.82812"/>
+    <kerning char1="T" char2="Ä" amount="-1.82812"/>
+    <kerning char1="T" char2="Å" amount="-1.82812"/>
+    <kerning char1="T" char2="Ö" amount="-0.890625"/>
+    <kerning char1="T" char2="å" amount="-2.71875"/>
+    <kerning char1="U" char2="," amount="-5.59375"/>
+    <kerning char1="U" char2="." amount="-2.71875"/>
+    <kerning char1="U" char2="A" amount="-0.890625"/>
+    <kerning char1="U" char2="Ä" amount="-0.890625"/>
+    <kerning char1="U" char2="Å" amount="-0.890625"/>
+    <kerning char1="V" char2="," amount="-11.9688"/>
+    <kerning char1="V" char2="-" amount="-4.65625"/>
+    <kerning char1="V" char2="." amount="-11.0312"/>
+    <kerning char1="V" char2=":" amount="-5.6875"/>
+    <kerning char1="V" char2=";" amount="-4.65625"/>
+    <kerning char1="V" char2="A" amount="-3.76562"/>
+    <kerning char1="V" char2="C" amount="-1.82812"/>
+    <kerning char1="V" char2="G" amount="-1.82812"/>
+    <kerning char1="V" char2="O" amount="-1.82812"/>
+    <kerning char1="V" char2="Q" amount="-1.82812"/>
+    <kerning char1="V" char2="a" amount="-2.71875"/>
+    <kerning char1="V" char2="e" amount="-2.71875"/>
+    <kerning char1="V" char2="o" amount="-1.82812"/>
+    <kerning char1="V" char2="r" amount="-0.890625"/>
+    <kerning char1="V" char2="u" amount="-1.82812"/>
+    <kerning char1="V" char2="Ä" amount="-3.76562"/>
+    <kerning char1="V" char2="Å" amount="-3.76562"/>
+    <kerning char1="V" char2="Ö" amount="-1.82812"/>
+    <kerning char1="V" char2="å" amount="-2.71875"/>
+    <kerning char1="W" char2="," amount="-10.1406"/>
+    <kerning char1="W" char2="-" amount="-2.8125"/>
+    <kerning char1="W" char2="." amount="-9.20312"/>
+    <kerning char1="W" char2=":" amount="-2.92188"/>
+    <kerning char1="W" char2=";" amount="-3.65625"/>
+    <kerning char1="W" char2="A" amount="-2.71875"/>
+    <kerning char1="W" char2="G" amount="-0.890625"/>
+    <kerning char1="W" char2="O" amount="-0.890625"/>
+    <kerning char1="W" char2="a" amount="-1.82812"/>
+    <kerning char1="W" char2="d" amount="-1.82812"/>
+    <kerning char1="W" char2="e" amount="-2.71875"/>
+    <kerning char1="W" char2="o" amount="-1.82812"/>
+    <kerning char1="W" char2="u" amount="-0.890625"/>
+    <kerning char1="W" char2="Ä" amount="-2.71875"/>
+    <kerning char1="W" char2="Å" amount="-2.71875"/>
+    <kerning char1="W" char2="Ö" amount="-0.890625"/>
+    <kerning char1="W" char2="å" amount="-1.82812"/>
+    <kerning char1="X" char2="C" amount="-2.71875"/>
+    <kerning char1="X" char2="G" amount="-1.82812"/>
+    <kerning char1="X" char2="O" amount="-2.71875"/>
+    <kerning char1="X" char2="Ö" amount="-2.71875"/>
+    <kerning char1="Y" char2="," amount="-11.9688"/>
+    <kerning char1="Y" char2="-" amount="-7.42188"/>
+    <kerning char1="Y" char2="." amount="-11.0312"/>
+    <kerning char1="Y" char2=":" amount="-4.65625"/>
+    <kerning char1="Y" char2=";" amount="-4.65625"/>
+    <kerning char1="Y" char2="A" amount="-4.65625"/>
+    <kerning char1="Y" char2="C" amount="-2.71875"/>
+    <kerning char1="Y" char2="G" amount="-1.82812"/>
+    <kerning char1="Y" char2="O" amount="-2.71875"/>
+    <kerning char1="Y" char2="a" amount="-5.59375"/>
+    <kerning char1="Y" char2="d" amount="-4.65625"/>
+    <kerning char1="Y" char2="e" amount="-5.59375"/>
+    <kerning char1="Y" char2="o" amount="-4.65625"/>
+    <kerning char1="Y" char2="p" amount="-2.71875"/>
+    <kerning char1="Y" char2="q" amount="-3.65625"/>
+    <kerning char1="Y" char2="u" amount="-2.71875"/>
+    <kerning char1="Y" char2="v" amount="-1.82812"/>
+    <kerning char1="Y" char2="Ä" amount="-4.65625"/>
+    <kerning char1="Y" char2="Å" amount="-4.65625"/>
+    <kerning char1="Y" char2="Ö" amount="-2.71875"/>
+    <kerning char1="Y" char2="å" amount="-5.59375"/>
+    <kerning char1="b" char2="," amount="-3.65625"/>
+    <kerning char1="b" char2="." amount="-1.82812"/>
+    <kerning char1="b" char2="u" amount="-1.82812"/>
+    <kerning char1="b" char2="v" amount="-0.890625"/>
+    <kerning char1="b" char2="y" amount="-0.890625"/>
+    <kerning char1="b" char2="ü" amount="-1.82812"/>
+    <kerning char1="c" char2="," amount="-2.71875"/>
+    <kerning char1="c" char2="." amount="-1.82812"/>
+    <kerning char1="e" char2="," amount="-3.65625"/>
+    <kerning char1="e" char2="." amount="-1.82812"/>
+    <kerning char1="e" char2="g" amount="1.82812"/>
+    <kerning char1="e" char2="y" amount="-0.984375"/>
+    <kerning char1="f" char2=" " amount="7.42188"/>
+    <kerning char1="f" char2="," amount="-4.65625"/>
+    <kerning char1="f" char2="." amount="-2.71875"/>
+    <kerning char1="f" char2="?" amount="3.65625"/>
+    <kerning char1="f" char2="a" amount="2.71875"/>
+    <kerning char1="f" char2="e" amount="1.82812"/>
+    <kerning char1="f" char2="f" amount="2.71875"/>
+    <kerning char1="f" char2="k" amount="0.890625"/>
+    <kerning char1="f" char2="l" amount="0.890625"/>
+    <kerning char1="f" char2="o" amount="1.82812"/>
+    <kerning char1="f" char2="’" amount="2.71875"/>
+    <kerning char1="f" char2="”" amount="3.65625"/>
+    <kerning char1="g" char2="." amount="-1.82812"/>
+    <kerning char1="h" char2="y" amount="-0.890625"/>
+    <kerning char1="k" char2="e" amount="-2.71875"/>
+    <kerning char1="k" char2="o" amount="-1.82812"/>
+    <kerning char1="k" char2="y" amount="0.890625"/>
+    <kerning char1="k" char2="ö" amount="-1.82812"/>
+    <kerning char1="m" char2="y" amount="-0.890625"/>
+    <kerning char1="n" char2="’" amount="-5.59375"/>
+    <kerning char1="o" char2="," amount="-4.65625"/>
+    <kerning char1="o" char2="." amount="-2.71875"/>
+    <kerning char1="o" char2="g" amount="0.890625"/>
+    <kerning char1="o" char2="v" amount="-0.890625"/>
+    <kerning char1="o" char2="w" amount="-1.73438"/>
+    <kerning char1="o" char2="x" amount="-1.92188"/>
+    <kerning char1="o" char2="y" amount="-1.82812"/>
+    <kerning char1="p" char2="," amount="-2.71875"/>
+    <kerning char1="p" char2="." amount="-1.82812"/>
+    <kerning char1="p" char2="y" amount="-0.890625"/>
+    <kerning char1="r" char2="," amount="-9.20312"/>
+    <kerning char1="r" char2="." amount="-7.42188"/>
+    <kerning char1="r" char2="t" amount="2.71875"/>
+    <kerning char1="r" char2="v" amount="1.82812"/>
+    <kerning char1="r" char2="y" amount="1.82812"/>
+    <kerning char1="s" char2="," amount="-3.65625"/>
+    <kerning char1="s" char2="." amount="-1.82812"/>
+    <kerning char1="s" char2="w" amount="0.890625"/>
+    <kerning char1="v" char2="," amount="-10.1406"/>
+    <kerning char1="v" char2="." amount="-7.51562"/>
+    <kerning char1="v" char2="a" amount="-0.890625"/>
+    <kerning char1="v" char2="c" amount="-1.92188"/>
+    <kerning char1="v" char2="d" amount="-0.890625"/>
+    <kerning char1="v" char2="e" amount="-1.82812"/>
+    <kerning char1="v" char2="o" amount="-0.890625"/>
+    <kerning char1="v" char2="q" amount="-0.890625"/>
+    <kerning char1="v" char2="ä" amount="-0.890625"/>
+    <kerning char1="v" char2="å" amount="-0.890625"/>
+    <kerning char1="v" char2="ö" amount="-0.890625"/>
+    <kerning char1="w" char2="," amount="-8.3125"/>
+    <kerning char1="w" char2="." amount="-7.42188"/>
+    <kerning char1="w" char2="c" amount="-1.82812"/>
+    <kerning char1="w" char2="d" amount="-0.890625"/>
+    <kerning char1="w" char2="e" amount="-0.890625"/>
+    <kerning char1="w" char2="o" amount="-0.890625"/>
+    <kerning char1="w" char2="q" amount="-0.890625"/>
+    <kerning char1="w" char2="ö" amount="-0.890625"/>
+    <kerning char1="x" char2="c" amount="-1.82812"/>
+    <kerning char1="x" char2="d" amount="-1.82812"/>
+    <kerning char1="x" char2="e" amount="-1.82812"/>
+    <kerning char1="x" char2="o" amount="-0.890625"/>
+    <kerning char1="x" char2="ö" amount="-0.890625"/>
+    <kerning char1="y" char2="," amount="-7.42188"/>
+    <kerning char1="y" char2="." amount="-5.59375"/>
+    <kerning char1="y" char2="c" amount="-0.890625"/>
+    <kerning char1="y" char2="d" amount="-0.890625"/>
+    <kerning char1="y" char2="e" amount="-0.890625"/>
+    <kerning char1="Ä" char2="C" amount="-1.92188"/>
+    <kerning char1="Ä" char2="G" amount="-0.890625"/>
+    <kerning char1="Ä" char2="O" amount="-0.890625"/>
+    <kerning char1="Ä" char2="Q" amount="-0.984375"/>
+    <kerning char1="Ä" char2="T" amount="-2.92188"/>
+    <kerning char1="Ä" char2="U" amount="-0.890625"/>
+    <kerning char1="Ä" char2="V" amount="-3.65625"/>
+    <kerning char1="Ä" char2="W" amount="-1.92188"/>
+    <kerning char1="Ä" char2="Y" amount="-5.59375"/>
+    <kerning char1="Ä" char2="v" amount="-1.92188"/>
+    <kerning char1="Ä" char2="w" amount="-0.984375"/>
+    <kerning char1="Ä" char2="y" amount="-0.984375"/>
+    <kerning char1="Ä" char2="’" amount="-9.20312"/>
+    <kerning char1="Ä" char2="”" amount="-9.20312"/>
+    <kerning char1="Å" char2="C" amount="-1.92188"/>
+    <kerning char1="Å" char2="G" amount="-0.890625"/>
+    <kerning char1="Å" char2="O" amount="-0.890625"/>
+    <kerning char1="Å" char2="Q" amount="-0.984375"/>
+    <kerning char1="Å" char2="T" amount="-2.92188"/>
+    <kerning char1="Å" char2="U" amount="-0.890625"/>
+    <kerning char1="Å" char2="V" amount="-3.65625"/>
+    <kerning char1="Å" char2="W" amount="-1.92188"/>
+    <kerning char1="Å" char2="Y" amount="-5.59375"/>
+    <kerning char1="Å" char2="v" amount="-1.92188"/>
+    <kerning char1="Å" char2="w" amount="-0.984375"/>
+    <kerning char1="Å" char2="y" amount="-0.984375"/>
+    <kerning char1="Å" char2="’" amount="-9.20312"/>
+    <kerning char1="Å" char2="”" amount="-9.20312"/>
+    <kerning char1="Ö" char2="A" amount="-1.92188"/>
+    <kerning char1="Ö" char2="T" amount="-0.890625"/>
+    <kerning char1="Ö" char2="V" amount="-0.890625"/>
+    <kerning char1="Ö" char2="X" amount="-0.890625"/>
+    <kerning char1="Ö" char2="Y" amount="-3.65625"/>
+    <kerning char1="Ü" char2="A" amount="-0.890625"/>
+    <kerning char1="ö" char2="v" amount="-0.890625"/>
+    <kerning char1="ö" char2="w" amount="-1.73438"/>
+    <kerning char1="ö" char2="x" amount="-1.92188"/>
+    <kerning char1="ö" char2="y" amount="-1.82812"/>
+    <kerning char1="‘" char2="A" amount="-7.42188"/>
+    <kerning char1="‘" char2="Ä" amount="-7.42188"/>
+    <kerning char1="‘" char2="Å" amount="-7.42188"/>
+    <kerning char1="’" char2="d" amount="-5.59375"/>
+    <kerning char1="’" char2="r" amount="-4.65625"/>
+    <kerning char1="’" char2="s" amount="-6.67188"/>
+    <kerning char1="’" char2="t" amount="-0.890625"/>
+    <kerning char1="’" char2="v" amount="-2.8125"/>
+    <kerning char1="‚" char2="‚" amount="-4.65625"/>
+    <kerning char1="“" char2="A" amount="-8.3125"/>
+    <kerning char1="“" char2="Ä" amount="-8.3125"/>
+    <kerning char1="“" char2="Å" amount="-8.3125"/>
+</font>

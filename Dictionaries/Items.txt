@@ -50,7 +50,7 @@ Extra batteries not included.
 不包括备用电池。
 
 Ordinary Brick
-普通砖
+板砖
 
 With enough of these, you could build a city.
 多买些，你就可以造一座城市。
@@ -131,10 +131,10 @@ So cuddly and adorable you can't not hug him! May contain rabies.
 它十分可爱，喜欢被拥抱，使你情不自禁地抱住他！可能患有狂犬病。
 
 Space Heater
-空间加热器
+小型供暖器
 
 Now made with 30% dryer wood.
-现在其中30%使用更加干燥的木头制作。
+现在里面的木头比原先干燥了30%！
 
 Squirrel Whistle
 松鼠的口哨声
@@ -146,7 +146,7 @@ Fragile Bulbs
 易碎的灯泡
 
 Causes more puncture wounds than the leading brand!
-这种灯泡比领导品牌更能使你伤痕累累，体无完肤！
+这种灯泡比领导品牌更容易使你伤痕累累！
 
 Eager Bunny|Plushie
 尖酸的兔宝宝|毛绒玩偶
@@ -257,7 +257,7 @@ Marshmallows
 棉花糖
 
 Made from Sweet Clouds, winner of the Kentucky Derby.
-使用肯塔基德比马赛的获胜者甜云制成。
+使用肯塔基德比马赛冠军甜云制成。
 
 Dry Ice Cubes
 干冰
@@ -404,7 +404,7 @@ Toy Zombie
 玩具僵尸
 
 You can't make a game without one these days.
-这几天几乎每个游戏里都有的东西。
+最近几乎每个游戏里都有的东西。
 
 Handheld Fireplace
 掌上火炉
@@ -539,7 +539,7 @@ Balloons
 气球
 
 Lifting the spirits of children everywhere.
-把孩子们的精神传遍世界各地。
+使世界各地的孩子们欢呼雀跃。
 
 Triangle Idol
 三角木偶
@@ -676,7 +676,7 @@ Game Bush
 Out of your favorite video game and into your home!
 从你最喜爱的视频游戏中来到你家！
 
-Manly Razer
+Manly Razor
 充满男子气概的|剃须刀
 
 Comes pre-loaded with thick, shiny hair already matted into its teeth.
@@ -692,7 +692,7 @@ Low Self-Esteem|Action Doll
 自卑的玩偶
 
 Teetering in the corner of every bar and every fraternity party. Heeeyy!
-步履蹒跚地走在每一个酒 吧、每一个联谊会的角落里。嘿~~~！
+步履蹒跚地走在每一个酒 吧、每一个联谊会的角落 里。嘿~~~！
 
 Puff Pack
 喷云吐雾包
@@ -763,8 +763,8 @@ Flaming Globe
 It's not really on fire, it's all in your head.
 它并不是真的在燃烧——这一切都是你的想象。
 
-Toy Rocketship
-玩具飞船
+Rocketship of|Learning
+学习的飞船
 
 Blast off to adventure!
 点火起飞，开始冒险！
@@ -833,7 +833,7 @@ Clone Factory
 克隆工厂
 
 The secret is duplicating the human spirit, which is forcefully injected moments before shipping.
-秘密就在于它能在装运前的一瞬间强制注入复制好的人的精神。
+秘密就在于它能在装运前的一瞬间强制注入复制好的人的灵魂。
 
 Creation Science
 创造科学

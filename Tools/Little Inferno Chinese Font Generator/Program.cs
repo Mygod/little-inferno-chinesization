@@ -40,12 +40,12 @@ namespace Mygod.LittleInferno.Chinese.FontGenerator
                     {
                         using (var graphics = Graphics.FromImage(bitmap))
                         {
-                            graphics.TextRenderingHint = TextRenderingHint.AntiAlias;
+                            graphics.TextRenderingHint = TextRenderingHint.AntiAliasGridFit;
                             for (var y = 0; y < charPerRow; y++) for (var x = 0; x < charPerRow; x++)
                             {
                                 if (!enumerator.MoveNext()) goto generateXml;
                                 graphics.DrawString(new string(enumerator.Current, 1),
-                                    new Font(new FontFamily("微软雅黑"), PointSize, FontStyle.Bold),
+                                    new Font(new FontFamily("方正兰亭特黑简体"), PointSize, FontStyle.Bold),
                                     Brushes.White, Move(pointDictionary[j] = new PointF(PointSizeEx * x, PointSizeEx * y)));
                                 pageDictionary[j++] = i + 2;
                             }
@@ -82,7 +82,7 @@ namespace Mygod.LittleInferno.Chinese.FontGenerator
 
         private static PointF Move(PointF p)
         {
-            return new PointF(p.X + PointSize - 72, p.Y + PointSize - 75);
+            return new PointF(p.X + PointSize - 72, p.Y + PointSize - 60);
         }
 
         private const int PointSize = 58, PointSizeEx = 79;

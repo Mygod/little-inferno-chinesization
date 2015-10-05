@@ -166,7 +166,7 @@ SEND
 发送
 
 Message Sent!
-信息已发送！
+邮件已发送！
 
 Find 1 more
 COMBO!
@@ -231,3 +231,27 @@ Thanks for playing!
 
 I <3 U!!
 521!!
+
+an unhandled exception occurred
+游戏不幸地崩溃了，请去 mygodstudio.tk 报告。
+
+Another instance of Little Inferno is already running. Are you sure you want to run more than one? Clicking Yes could cause your save data to be lost.
+小小炼狱已经在运行了！你确定要再开一个吗？点击“是”可能会导致你的存档丢失。
+
+Error reading from resource file: %d
+读取资源文件出错：%d
+
+Error reading from resource file async: %d
+异步读取资源文件出错：%d
+
+Error reading from resource file
+读取资源文件出错
+
+Could not open resource pak file '%s' for read in cwd '%s'
+无法打开并读取资源 pak 文件“%s”，当前工作目录“%s”
+
+Steam init failed.
+Steam 初始化失败。
+
+Little Inferno
+小小炼狱 1.2a 汉化版
