@@ -1,5 +1,5 @@
 ﻿Bike Pirate|COMBO
-飞车抢劫|组合
+抢自行车|组合
 
 Someone Else's|COMBO
 别人的|组合
@@ -233,7 +233,7 @@ Chain Email|COMBO
 连锁邮件|组合
 
 Wooden Applause|COMBO
-木制掌声|组合
+木制手掌|组合
 
 World Adventurer|COMBO
 环球冒险|组合
@@ -257,7 +257,7 @@ Heart and Soul|COMBO
 心与灵魂|组合
 
 Yellow Brick Road|COMBO
-黄砖路|组合
+绿野仙踪|组合
 
 Planes & Trains|COMBO
 天地穿梭|组合
