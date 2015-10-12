@@ -805,7 +805,7 @@ FROMM YOUR NEIGHBOR SUGAR PLUMPPSS NOM NOMMMMM!
 
 == 27. C4_SugarPlumps_BlankPages ==
 I'm typing you letters and I don't have a DELETE buttttton!
-我打字给你写信，而且我没有 DELETE 键~~~~！
+我打字给你写信，而且我没有删除键~~~~！
 
 It fell off.
 它掉下来了。
@@ -837,7 +837,7 @@ P.S. You can have this
 附：这个可以送给你
 
 Delete Button
-Delete 键
+删除键
 
 == 28. C4_SugarPlumps_NotAlone ==
 We're not allloooone you know

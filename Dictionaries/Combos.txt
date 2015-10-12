@@ -173,7 +173,7 @@ Bearskin Rug|COMBO
 熊皮地毯|组合
 
 Fireworks|COMBO
-爆竹烟花|组合
+烟花爆竹|组合
 
 Spinning Blades|COMBO
 旋转飞刃|组合
