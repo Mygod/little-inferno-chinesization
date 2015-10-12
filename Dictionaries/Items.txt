@@ -1,23 +1,23 @@
 Chimney Stuffer
-烟囱填塞物
+烟囱堵塞物
 
 Little Inferno|Collector Poster
 小小炼狱珍藏版|海报
 
 Framed limited edition poster! May lose value when burned.
-自带框架的限量版海报！一旦燃烧便会失去它的价值。
+自带框架的限量版海报！燃烧可能会导致贬值。
 
 Corn on the Cob
 玉米棒
 
 Made with all-natural, high-fructose corn syrup! Also doubles as car fuel.
-由全天然、高果糖的玉米糖浆制成！同时也可作为汽车燃料。
+由全天然、高果糖的玉米糖浆制成！也可作为汽车燃料。
 
 Letter Blocks
 字母方块
 
 Optional profanity blocker accessory for easier parenting.
-父母购买时可以选择脏话过滤器配件。
+父母购买时可以选购脏话过滤器配件。
 
 Alarm Clock
 闹钟
@@ -29,7 +29,7 @@ Someone Else's|Credit Card
 别人的信用卡
 
 Let's go shopping!
-去买东西吧！
+去购物吧！
 
 Broken Magnet
 坏掉的磁铁
@@ -47,16 +47,16 @@ Battery Pack
 电池组
 
 Extra batteries not included.
-不包括备用电池。
+不含备用电池。
 
 Ordinary Brick
 板砖
 
 With enough of these, you could build a city.
-多买些，你就可以造一座城市。
+给定足够板砖，你可以造一座城市。
 
 Antiki Torch
-古代火炬
+远古火炬
 
 Be careful not to place it next to your thatched hut.
 注意不要把它放在你的茅屋旁边。
@@ -83,13 +83,13 @@ Instant|Seed Packet
 速成种子包
 
 The joy of gardening without the inconvenience of sunshine or effort.
-有了它就可以享受园艺的喜悦而不用忍受阳光或努力带来的不便。
+有了它就可以不用忍受天气的不便，也不用付出努力而享受园艺的喜悦。
 
 Jar of Fireflies
 萤火虫罐
 
 You won't want to open it in the morning.
-你不会想在清晨打开它的盖子的。
+清晨你会不想打开它的盖子。
 
 My Pictures
 我的图片
@@ -107,7 +107,7 @@ Celebration Bus
 庆祝公交车
 
 Zoom, zoom, where does it go? Only the bus driver knows.
-呜，呜，它要去哪里？只有公交车司机知道。
+呜，呜，它要去哪里？只有司机知道。
 
 Blankity Bank
 空虚的银行
@@ -128,25 +128,25 @@ Raccoon Plushie
 浣熊毛绒玩偶
 
 So cuddly and adorable you can't not hug him! May contain rabies.
-它十分可爱，喜欢被拥抱，使你情不自禁地抱住他！可能患有狂犬病。
+它可爱得让你爱不释手！可能患有狂犬病。
 
 Space Heater
 小型供暖器
 
 Now made with 30% dryer wood.
-现在里面的木头比原先干燥了30%！
+木头的干燥程度上升了30%！
 
 Squirrel Whistle
 松鼠的口哨声
 
 The gentle sounds of nature, only a firm squeeze away!
-只要用力一挤就可以发出来自大自然的温柔声音！
+只要用力一挤，就可以听到来自大自然轻柔的声音！
 
 Fragile Bulbs
 易碎的灯泡
 
 Causes more puncture wounds than the leading brand!
-这种灯泡比领导品牌更容易使你伤痕累累！
+刺伤皮肤次数远超领军品牌！
 
 Eager Bunny|Plushie
 尖酸的兔宝宝|毛绒玩偶
@@ -155,22 +155,22 @@ Glimpse into the heart of darkness!
 一眼就能看到它邪恶的内 心！
 
 Best Friend|Supplement Pills
-最好的朋友|补充药片
+最要好的朋友|补药
 
 Banned internationally, but totally safe* here!
-这种药在国际间都被禁止 了，不过在这里是“完全安全”的！
+遭到国际禁止，但在这里“完全安全”！
 
 Feelings Bear|Plushie
 多愁善感的小熊|毛绒玩偶
 
 Always ready for a hug.
-总是愿意被人拥抱。
+永远愿意被人拥抱。
 
 Oil Barge
 油驳
 
 Studies show that oil spills help baby animals float.
-研究表明漏油可以帮助小动物们漂浮在水面上。
+研究表明海上溢油可以帮助小动物们漂浮在水面上。
 
 Building Blocks
 积木
@@ -182,10 +182,10 @@ Snake Surprise
 蛇的惊喜
 
 Your friends will never suspect it isn't filled with snakes. That's the surprise!
-你的朋友永远也不会觉得这里面充满了蛇。那就是惊 喜！
+你的朋友永远也不会觉得这里面充满了蛇。这也就是它的惊喜之处！
 
 Pyranosauraus|Plushie
-喷火恐龙毛绒|玩偶
+喷火恐龙|毛绒玩偶
 
 Often feasted upon the delicious Steakosauraus, well done.
 经常饱餐一顿十分熟的美味牛排恐龙。
@@ -194,7 +194,7 @@ Disgruntled Elf|Plushie
 满腹牢骚的精灵|毛绒玩偶
 
 Bringing joy to every girl and boy!
-为所有孩子带去欢乐！
+为每一位孩子带去欢乐！
 
 Wandering Eye
 流浪的眼睛
@@ -209,7 +209,7 @@ Best suited for those who need to make shrewd business decisions.
 最适合那些需要恶毒的商业决策的人们。
 
 Valkyrie Doll
-瓦尔基里玩偶
+女武神玩偶
 
 Breaks hearts... and champagne glasses.
 她的歌声打碎了人们的 心......还有香槟酒杯。
@@ -233,7 +233,7 @@ Finally approved for home use.
 核弹终于获得了家用批准。
 
 Kitty Kitty|Poo Poo Plushie
-猫咪便便毛绒|玩偶
+猫咪猫咪便便|毛绒玩偶
 
 Fills your heart with love, and your home with fur.
 让你的心充满爱，让你家充满猫毛。
@@ -242,7 +242,7 @@ Mini Moon
 迷你月球
 
 Made from gen-u-ine space rocks!
-使用真——正——的太空岩石打造！
+使用真——正——的太空陨石打造！
 
 Snooty Foodie
 傲慢的美食家
@@ -251,7 +251,7 @@ Wooden Spoon
 木勺
 
 Now with more splinters for improved spanking.
-现在可以分成更多的碎片来改进打屁股的效果。
+为了能更好的打屁股，现在支持碎出更多的碎片。
 
 Marshmallows
 棉花糖
@@ -263,37 +263,37 @@ Dry Ice Cubes
 干冰
 
 Great for practical jokes and cryogenics.
-非常适合制作低温，还有恶作剧。
+适用于恶作剧和低温。
 
 Sausage Links
 香肠
 
 You can't have a sausage fest without the meat!
-你没法开一个没有肉的宴 会。
+世上没有没有肉的男性宴会。
 
 Blowfish
 河豚
 
 Can't think of one reason why you wouldn't want to put it in your mouth!
-真不明白你为什么不想把它放到你的嘴里！
+完全没有不把它放到你的嘴里的理由！
 
 Fragile China
 易碎的瓷器
 
 Adds dramatic flair to any dinner party or heated discussion.
-使任何晚宴或热烈的讨论都充满戏剧性。
+在任何晚宴或热烈的讨论都能增添戏剧性的气息。
 
 Zesty Beetles
 灿烂的甲虫
 
 They make the most beautiful colors when crushed into a fine powder.
-被压碎时会展现出它们最美丽的颜色。
+它们被压成碎末时会展现出它们最美丽的颜色。
 
 Tooth 'n' Corn|Breakfast Flakes
 牙齿早餐玉米片
 
 Finally, the delicious flavors of corn and teeth meet in one amazing cereal.
-美味的玉米和牙齿终于在一包神奇的玉米片中见面了。
+在一包神奇的玉米片中，美味的玉米终于碰到了牙齿。
 
 Discount Sushi
 特价寿司
@@ -311,7 +311,7 @@ Toy Exterminator
 玩具杀虫剂
 
 Protects your crops using all natural pesticides. Like napalm!
-通过使用全天然杀虫剂来保护你的作物——就像使用燃烧弹一样！
+通过使用全天然杀虫剂来保护你的作物——就跟燃烧弹一样！
 
 Coffee
 咖啡
@@ -323,25 +323,25 @@ Midlife Crisis|Mitigator
 中年危机缓和剂
 
 Drink two glasses before bedtime, breakfast, lunch, and dinner.
-三餐前与睡前各喝两杯。
+口服。三餐前与睡前服用，一次两杯。
 
 Egg Pack
 鸡蛋套装
 
 Free-range genetically modified chickens provide the most colorful eggs!
-由放养的转基因鸡提供的最丰富多彩的鸡蛋！
+自由放养的转基因鸡能孵出最丰富多彩的鸡蛋！
 
 Mystery Seasoning
 神秘调味料
 
 Season the hors d'oeuvres at your next masked ball.
-为你在下一次化妆舞会的开胃小菜特制的调味料。
+为你在下一次化妆舞会的开胃菜特制的调味料。
 
 Locust Eggs
 蝗虫卵
 
 For the daring gourmand.
-为大胆的美食家提供。
+专供广州人。
 
 Magic Mushrooms
 迷幻蘑菇
@@ -353,22 +353,22 @@ Toaster
 烤面包机
 
 The greatest invention since sliced bread.
-切片面包以来最伟大的发 明。
+自切片面包以来最伟大的发明。
 
 Super Juicer 4000
 超级榨汁机4000
 
 Juice any household item for a healthy snack!
-可将任何家常物品榨成健康的零食！
+需要绿色的零食时可投入任何家居用品榨汁！
 
 Smoke Detector
 烟雾探测器
 
 If it keeps going off, just take out the batteries.
-如果持续滴滴作响就取出电池。
+如果持续报警，可以取出电池。
 
 1st Person Shopper
-第1人称购物游戏
+第一人称购物游戏
 
 Tetronimos
 俄罗斯方块
@@ -392,13 +392,13 @@ Cell Phone
 手机
 
 Automatically shrtns all w3rds in2 three char or less. LOL
-MS输入时会自动变成缩写。233
+MS输入时自动变缩写。233
 
 The Boss Plushie
 老板毛绒玩偶
 
 No one suspected the slick businessman was the villain the whole time.
-从来也没有人怀疑过圆滑的商人是反派角色。
+自始至终都没有人想到圆滑的商人竟是个反派角色。
 
 Toy Zombie
 玩具僵尸
@@ -434,7 +434,7 @@ Cardboard Sword
 硬纸板之剑
 
 Take this, it's dangerous outside!
-带上这把剑吧，外面的世界很危险！
+单人旅行很危险呐，将此剑授汝！
 
 Goo Ball Pack
 粘粘球包
@@ -458,13 +458,13 @@ Miss Hexopus
 六爪鱼小姐
 
 Usually found in the water level.
-通常出没于水平面上。
+通常出没于水平面附近。
 
 Clampy Bot
 钳子机器人
 
 Perpetually moving toward the Cities That Build Him.
-不断地朝向《制造它的城 市》走去。
+永远都朝向《制造它的 城市》走去。
 
 Beta Version
 测试版
@@ -485,16 +485,16 @@ The fate of their worlds is in your hands.
 他们世界的命运就掌握在你手中。
 
 Gravity Boy|Action Toy
-重力男孩活动|玩具
+重力男孩人偶
 
 His attraction is undeniable.
-他的吸引力是无可挑剔的。
+他的吸引力不容否认。
 
 Miss Nancy's Guide to Stylish Living
 南希小姐的时尚生活指南
 
 Howling Coyote
-嚎叫着的狼
+嚎叫着的郊狼
 
 Ask not for whom the coyote howls, he howls for yoooouuuu.
 不要问他是在为谁嚎叫，他是在为你~~~嚎叫。
@@ -503,7 +503,7 @@ Old Lady Doll
 老妇人娃娃
 
 Perhaps she'll die.
-也许她会死的。
+她说不定会死。
 
 The Terrible Secret
 可怕的秘密
@@ -512,10 +512,10 @@ The smoldering first book of a terrible trilogy!
 可怕的三部曲之冒着烟的第一本！
 
 Modern Lamp
-现代灯
+摩登台灯
 
 Minimalist design meets minimal fire safety standards.
-简约的设计满足最低限度的消防安全标准。
+极简主义的设计符合极简主义的消防安全标准。
 
 Russian|Nesting Doll
 俄罗斯套娃
@@ -557,7 +557,7 @@ Scarecrow
 稻草人
 
 Scares away everything but the crows.
-几乎可以吓走一切，但吓不走那些乌鸦。
+除了乌鸦什么都能吓跑。
 
 Potpourri Bomb
 香包炸弹
@@ -569,13 +569,13 @@ Powder Barrel
 火药桶
 
 A fanciful fiesta of explosive colors!
-一个奇异的节日，充满着爆炸性的色彩！
+这是充满着爆炸性色彩的奇异嘉年华！
 
 Cocoon
 蚕茧
 
 She went in there to powder her nose and hasn't come back.
-她钻入蚕茧中给自己的鼻子涂粉，然后再也没有回来。
+她钻入蚕茧中给自己的鼻子涂粉，从此再也没有回来。
 
 Dish Detergent
 洗洁精
@@ -587,25 +587,25 @@ Cello
 大提琴
 
 Thousands of hours to master, seconds to reduce it to a pile of ash.
-曾被人收藏了几千个小时，却在几秒钟之内化为一堆灰烬。
+精通需要几千小时，烧成灰需要几秒钟。
 
 Snow Globe
 雪晶球
 
 There's a whole frozen world in there.
-整个世界都被冰封在那里。
+装着一个被冰雪覆盖的世界。
 
 Medicated|Mommy Pills
-妈咪药丸
+服药的妈咪药丸
 
 Mommy needs her breakfast.
-妈咪想要吃早餐。
+妈咪需要早饭。
 
 Freezing|Rain Cloud
 冻雨云
 
 For that clammy, under the weather feeling.
-享受那湿冷、舒服的感觉 吧。
+享受那湿冷得浑身不舒服的感觉吧。
 
 Spontaneous|Combustion Doll
 自燃娃娃
@@ -626,7 +626,7 @@ Old Bear Trap
 老式捕熊陷阱
 
 Looks great on the floor of your huntin' lodge.
-它在你的狩猎小屋的地板上看起来棒极了。
+摆在你狩猎小屋的地板上好看极了。
 
 Dynamite Daisy
 雏菊炸药
@@ -689,10 +689,10 @@ Still blinking after all these years.
 过了这么多年那灯泡仍然在闪烁。
 
 Low Self-Esteem|Action Doll
-自卑的玩偶
+低自尊的玩偶
 
 Teetering in the corner of every bar and every fraternity party. Heeeyy!
-步履蹒跚地走在每一个酒 吧、每一个联谊会的角落 里。嘿~~~！
+蹒跚地徘徊于所有联谊会和酒吧的角落里。嘿~~~！
 
 Puff Pack
 喷云吐雾包
