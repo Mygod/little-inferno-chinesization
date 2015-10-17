@@ -41,10 +41,10 @@ again?
 一遍
 
 Make sure your previous catalog has no unpurchased items!
-请确认在你前一本目录中没有未购买过的物品！
+请确认在您的前一本目录中没有未购买过的物品！
 
 Make sure your mailbox has no unprocessed letters!
-请确认你的邮箱中没有未处理的信件！
+请确认您的邮箱中没有未处理的信件！
 
 New Catalog available for purchase!
 新的商品目录可供购买！
@@ -53,7 +53,7 @@ Upgrade Mailbox
 升级邮箱
 
 Upgrade your mailbox to hold one additional item?
-确认要通过升级来扩大一个物品的容量吗？
+确认要通过升级扩容一格吗？
 
 cancel
 取消
@@ -68,13 +68,13 @@ Restocking...
 补货中......
 
 Tomorrow Bucks
-明日巴克
+明日元
 
 Use Tomorrow Bucks to buy brand new things!
-使用明日巴克来购买全新的东西！
+使用明日元来购买全新的东西！
 
 Tomorrow Bucks, OK!
-明日巴克，好的！
+明日元，好的！
 
 Tomorrow Stamps
 明日邮票
@@ -125,7 +125,7 @@ Check your browser
 请查看您的浏览器
 
 Please proceed once your internet browser says "Setup Complete!" 
-请在您的浏览器显示“Setup Complete!”之前进行操作。
+请在您的浏览器显示“Setup Complete!”之后继续。
 
 Let's burn some pictures!
 来烧点图片吧！
@@ -212,7 +212,7 @@ Catalogs
 商品目录
 
 Shopping is fun! Buy every item, in every catalog, and you will be rewarded.
-购物真是一种乐趣！买下每一本商品目录中的每一样东西，然后你就会得到回报。
+购物真好玩！买下每一本商品目录中的每一样东西，然后你就会得到奖励。
 
 Catalogs, OK!
 商品目录，好的！
@@ -227,13 +227,13 @@ Combos, OK!
 组合，好的！
 
 Thanks for playing!
-感谢您玩此游戏！
+感谢您对本游戏的支持！
 
 I <3 U!!
 521!!
 
 an unhandled exception occurred
-游戏不幸地崩溃了，请去 mygodstudio.tk 报告。
+游戏不幸地崩溃了，请去 mygod.tk 报告。
 
 Another instance of Little Inferno is already running. Are you sure you want to run more than one? Clicking Yes could cause your save data to be lost.
 小小炼狱已经在运行了！你确定要再开一个吗？点击“是”可能会导致你的存档丢失。
@@ -254,4 +254,4 @@ Steam init failed.
 Steam 初始化失败。
 
 Little Inferno
-小小炼狱 1.2a 汉化版
+小小炼狱 1.2b 汉化版
