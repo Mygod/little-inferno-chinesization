@@ -716,13 +716,13 @@ Protein Powder
 蛋白粉
 
 For best results consume with a dozen raw eggs and a pack of bacon.
-为了达到最佳效果，使用了一打生鸡蛋和一包培根制 成。
+为了达到最佳效果，请和一打生鸡蛋和一包培根一起食用。
 
 Sonic Boombox
 索尼克扬声器
 
 Real men use only the subwoofer.
-真正的男人只用低音炮。
+真男人只用低音炮。
 
 Mustache Rider
 山羊胡骑士
@@ -734,7 +734,7 @@ Book of Darkness
 暗之书
 
 Brought a plague upon all who've owned it. On sale today!
-所有拥有过它的人都患上了瘟疫。今日发售！
+将瘟疫带给了所有拥有过它的人。现已上市！
 
 Existence, Now
 活在当下
@@ -749,7 +749,7 @@ Laser Pointer
 激光笔
 
 Always points towards destruction.
-只需一点即可摧毁。
+指哪儿打哪儿。
 
 Music Tones
 音符
@@ -773,7 +773,7 @@ Fashionable|Sunglasses
 时髦的太阳镜
 
 For the fashionista on the prowl.
-为在人们目光下的时尚达人量身定做。
+专供在外捕食的时尚达人。
 
 Computer Worm
 计算机蠕虫
@@ -797,10 +797,10 @@ Mini Pluto
 迷你冥王星
 
 Buy now before it becomes a planet again! Cheap!
-快趁它还没有再次变成一颗行星之前买下它！现在还很便宜！
+快趁它还是颗矮行星时低价买下它！
 
 Transhumanist|Action Figure
-超人主义者玩具
+超人类主义者玩具
 
 After becoming more machine than man, he's finally ready to connect.
 在自己身体的机器部分超过人体部分后，他终于准备好要插入插头了。
@@ -809,7 +809,7 @@ Railroad Xing
 铁路道口
 
 Ding ding ding! Something is coming this way, but the line has been closed for years.
-叮叮叮！好像有什么东西正在开过来，可这条路几年前就被关闭了。
+叮叮叮！好像有什么东西正在开过来，可这条路已经关闭多年了。
 
 Mom & Dad Bots
 妈妈和爸爸机器人
@@ -939,7 +939,7 @@ Gravity Head Rose
 重力之头上的玫瑰
 
 Might be important later...
-也许以后会变得更重要......
+说不定以后会有用......
 
 Internet Cloud Numbers
 互联网之云的数字
@@ -975,7 +975,7 @@ Buzz Soot Bug
 嗡嗡叫的煤烟虫子
 
 Scamper Soot Bug
-疾走的煤烟虫子
+四窜的煤烟虫子
 
 Spider Egg Spider
 蜘蛛卵中的蜘蛛
